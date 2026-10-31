@@ -1,0 +1,114 @@
+{
+  "configuration": {
+    "claimants": 2000,
+    "claims": 5000,
+    "edges": 8000,
+    "incidents": 4000,
+    "invoices": 6000,
+    "payments": 8000,
+    "policies": 3000,
+    "providers": 500,
+    "users": 20
+  },
+  "dataset_checksum": "7ddfe15724a966f979a94516d39934873c11ab13b0dc30c219d2d75eb0b12fd8",
+  "files": {
+    "claim_status_events": {
+      "path": "output\\data\\claim_status_events.csv",
+      "rows": 10861,
+      "sha256": "cd0ac73b97b65fdbe9401c1bf9f267c567367308c54e80b062b270cfe58a4240"
+    },
+    "claimants": {
+      "path": "output\\data\\claimants.csv",
+      "rows": 2000,
+      "sha256": "94a1918986a1857f4c2423c1242431492ead2d662a39393edf7dd3e994199d2a"
+    },
+    "claims": {
+      "path": "output\\data\\claims.csv",
+      "rows": 5000,
+      "sha256": "4b7c93c3653913a1057ee508deca58ee954fa76f611d938d9c1e7ebf9de32566"
+    },
+    "ground_truth": {
+      "path": "output\\ground_truth\\ground_truth.csv",
+      "rows": 320,
+      "sha256": "44622bebebba7ae7053c01b98199405a8e3f69d06d2b58571044f88576a4ba30"
+    },
+    "incidents": {
+      "path": "output\\data\\incidents.csv",
+      "rows": 4000,
+      "sha256": "c3a13bb86118ced1aae3505cc541819d9e44edc5e5a4689c21a34948f078eeb8"
+    },
+    "invoices": {
+      "path": "output\\data\\invoices.csv",
+      "rows": 6000,
+      "sha256": "3abbaf7a185e5e9e3f78bd9b5457f05df400fa0e835dd86542b236deb284a647"
+    },
+    "payment_status_events": {
+      "path": "output\\data\\payment_status_events.csv",
+      "rows": 8000,
+      "sha256": "bcdf0757cbaf5bf85a62658567241c30225ccb3c62b333f0dbeaf20bb49bbdad"
+    },
+    "payments": {
+      "path": "output\\data\\payments.csv",
+      "rows": 8000,
+      "sha256": "343faa7c4b7ce5ecd681cba766dc5a0264129f856a791214e1aa66e695e7c353"
+    },
+    "policies": {
+      "path": "output\\data\\policies.csv",
+      "rows": 3000,
+      "sha256": "ddd72f342fa5fd718acbcb1cd3f5e072de41930da4509877432866daaf9a4941"
+    },
+    "providers": {
+      "path": "output\\data\\providers.csv",
+      "rows": 500,
+      "sha256": "6d11d15708d82fa6c0bac8a89ea2c50dfeceb03f745be233b56daf0256fee61e"
+    },
+    "relationship_edges": {
+      "path": "output\\data\\relationship_edges.csv",
+      "rows": 38000,
+      "sha256": "9ac8118f4a38f24196673887452fba8ccfa0b613766da9e1329474941d5bffbc"
+    },
+    "users": {
+      "path": "output\\data\\users.csv",
+      "rows": 20,
+      "sha256": "d65ea108a5eb75c577b2a54fe7baf21693ee5331042cb7fd97a230fc6e90231e"
+    }
+  },
+  "generation_run_id": "RUN-20261031",
+  "generator_command": "python -m generator.main --scale full --seed 20261031",
+  "generator_version": "0.1.0",
+  "ground_truth_summary": {
+    "networks_by_label": {
+      "BENIGN": 11,
+      "SUSPICIOUS": 28
+    },
+    "records": 320,
+    "records_by_label": {
+      "BENIGN": 44,
+      "SUSPICIOUS": 276
+    },
+    "records_by_pattern": {
+      "BENIGN_SHARED_ADDRESS": 44,
+      "DUPLICATE_INVOICE_NUMBER": 36,
+      "SHARED_PROVIDER_CLUSTER": 240
+    }
+  },
+  "row_counts": {
+    "claim_status_events": 10861,
+    "claimants": 2000,
+    "claims": 5000,
+    "ground_truth": 320,
+    "incidents": 4000,
+    "invoices": 6000,
+    "payment_status_events": 8000,
+    "payments": 8000,
+    "policies": 3000,
+    "providers": 500,
+    "relationship_edges": 38000,
+    "users": 20
+  },
+  "run_completed_at": "2026-10-31T08:24:07.763190+00:00",
+  "run_started_at": "2026-10-31T08:24:02.821660+00:00",
+  "scale": "full",
+  "seed": 20261031,
+  "time_frozen": true
+}

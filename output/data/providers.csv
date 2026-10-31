@@ -1,0 +1,752 @@
+provider_id,provider_name,provider_type,registration_number,email,normalized_email,phone,normalized_phone,address,normalized_address,city,state,registration_date,status,created_at
+PRV-000001,Kibe-Sethi Pharmacy,PHARMACY,REG-000001,neelganesan@kashyap.org,neelganesan@kashyap.org,9272878596,9272878596,"856
+Dewan Marg, Kolkata, West Bengal, India",856 dewan marg kolkata west bengal india,Kolkata,West Bengal,2026-09-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000002,"Kibe, Savant and Kota Auto Repair",AUTO_REPAIR,REG-000002,xkara@hari.com,xkara@hari.com,8544964335,8544964335,"86, Sule Zila, Bhubaneswar, Odisha, India",86 sule zila bhubaneswar odisha india,Bhubaneswar,Odisha,2019-01-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000003,Keer-Apte Diagnostic Center,DIAGNOSTIC_CENTER,REG-000003,aishanitara@bhattacharyya.com,aishanitara@bhattacharyya.com,7920636098,7920636098,"19/94, Patel Road, Vijayawada, Andhra Pradesh, India",19 94 patel road vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2024-08-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000004,Saran-Kala Diagnostic Center,DIAGNOSTIC_CENTER,REG-000004,varenya42@kumer.com,varenya42@kumer.com,9840416444,9840416444,"53
+Borra Zila, Proddatur, Andhra Pradesh, India",53 borra zila proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2022-03-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000005,"Arya, Mand and Dar Construction",CONSTRUCTION,REG-000005,rkhanna@bahl.com,rkhanna@bahl.com,8941142396,8941142396,"H.No. 15, Mandal Street, Vijayawada, Andhra Pradesh, India",h no 15 mandal street vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2019-07-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000006,"Ghose, Mani and Manda Legal Service",LEGAL_SERVICE,REG-000006,qpandey@nayak.net,qpandey@nayak.net,8232247278,8232247278,"H.No. 099, Venkataraman, Bengaluru, Karnataka, India",h no 099 venkataraman bengaluru karnataka india,Bengaluru,Karnataka,2019-05-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000007,Yohannan-Gopal Legal Service,LEGAL_SERVICE,REG-000007,gzacharia@kunda.info,gzacharia@kunda.info,6660064554,6660064554,"68/73, Vaidya Zila, Vijayawada, Andhra Pradesh, India",68 73 vaidya zila vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2024-04-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000008,"Jhaveri, Chahal and Peri Garage",GARAGE,REG-000008,knarang@chadha-bora.com,knarang@chadha-bora.com,8682213997,8682213997,"52
+Chaudry Zila, Warangal, Telangana, India",52 chaudry zila warangal telangana india,Warangal,Telangana,2023-08-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000009,"Doshi, Sarraf and Nanda Construction",CONSTRUCTION,REG-000009,anjalisampath@de-mody.org,anjalisampath@de-mody.org,8922208876,8922208876,"H.No. 52, Narain Path, Mumbai, Maharashtra, India",h no 52 narain path mumbai maharashtra india,Mumbai,Maharashtra,2022-05-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000010,Oak-Goel Hospital,HOSPITAL,REG-000010,qchopra@kota.com,qchopra@kota.com,7775244327,7775244327,"797
+Kala Street, Mumbai, Maharashtra, India",797 kala street mumbai maharashtra india,Mumbai,Maharashtra,2021-02-07,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000011,"Desai, Dugar and Walla Garage",GARAGE,REG-000011,imaster@chanda.com,imaster@chanda.com,8096176344,8096176344,"H.No. 47
+Shan Path, Pune, Maharashtra, India",h no 47 shan path pune maharashtra india,Pune,Maharashtra,2019-01-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000012,Raghavan-Nanda Hospital,HOSPITAL,REG-000012,lbhatt@tandon-virk.info,lbhatt@tandon-virk.info,6850325702,6850325702,"990, De Nagar, Pune, Maharashtra, India",990 de nagar pune maharashtra india,Pune,Maharashtra,2016-06-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000013,Shenoy-Mane Auto Repair,AUTO_REPAIR,REG-000013,bhavikashah@karan.net,bhavikashah@karan.net,6012326356,6012326356,"H.No. 97, Gole Street, Proddatur, Andhra Pradesh, India",h no 97 gole street proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2019-03-31,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000014,Contractor and Sons Garage,GARAGE,REG-000014,victor31@keer.com,victor31@keer.com,9415249452,9415249452,"H.No. 66
+Halder Ganj, Mumbai, Maharashtra, India",h no 66 halder ganj mumbai maharashtra india,Mumbai,Maharashtra,2016-02-19,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000015,Mitter-Sampath Pharmacy,PHARMACY,REG-000015,aryajoshi@vaidya.net,aryajoshi@vaidya.net,7001913970,7001913970,"H.No. 65, Virk Chowk, Chennai, Tamil Nadu, India",h no 65 virk chowk chennai tamil nadu india,Chennai,Tamil Nadu,2013-09-21,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000016,"Naidu, Sastry and Raj Auto Repair",AUTO_REPAIR,REG-000016,osaraf@sarraf.com,osaraf@sarraf.com,6474143043,6474143043,"H.No. 71
+Saran Chowk, Aligarh, Uttar Pradesh, India",h no 71 saran chowk aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2018-12-03,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000017,Shroff-Babu Hospital,HOSPITAL,REG-000017,tejasganesan@chana.com,tejasganesan@chana.com,9969940372,9969940372,"H.No. 63
+Dalal Road, Proddatur, Andhra Pradesh, India",h no 63 dalal road proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2023-05-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000018,Ram-Amble Auto Repair,AUTO_REPAIR,REG-000018,jayaramanmugdha@balakrishnan.org,jayaramanmugdha@balakrishnan.org,6236615589,6236615589,"042, Bhatnagar Road, Aligarh, Uttar Pradesh, India",042 bhatnagar road aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2011-12-29,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000019,Karan Group Legal Service,LEGAL_SERVICE,REG-000019,idhar@raju-hayre.com,idhar@raju-hayre.com,6913687778,6913687778,"84/16
+Dada Path, Nagpur, Maharashtra, India",84 16 dada path nagpur maharashtra india,Nagpur,Maharashtra,2024-01-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000020,"Thakur, Madan and Karan Clinic",CLINIC,REG-000020,mchaudhuri@borde-varkey.com,mchaudhuri@borde-varkey.com,7023616915,7023616915,"45/439
+Atwal Circle, Aligarh, Uttar Pradesh, India",45 439 atwal circle aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2012-01-05,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000021,Roy and Sons Garage,GARAGE,REG-000021,ucchalshukla@vig-chakrabarti.org,ucchalshukla@vig-chakrabarti.org,8204321950,8204321950,"H.No. 68, Randhawa Path, Warangal, Telangana, India",h no 68 randhawa path warangal telangana india,Warangal,Telangana,2019-06-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000022,"Din, Vig and Keer Diagnostic Center",DIAGNOSTIC_CENTER,REG-000022,gopal42@dutt-das.com,gopal42@dutt-das.com,9737136471,9737136471,"H.No. 27, Nayak Path, Kolkata, West Bengal, India",h no 27 nayak path kolkata west bengal india,Kolkata,West Bengal,2013-09-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000023,Kunda-Mani Auto Repair,AUTO_REPAIR,REG-000023,deshpandeomisha@raghavan.org,deshpandeomisha@raghavan.org,6642342316,6642342316,"27
+Gara Street, Aligarh, Uttar Pradesh, India",27 gara street aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2020-08-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000024,"Ramesh, Aggarwal and Khurana Auto Repair",AUTO_REPAIR,REG-000024,banjeetsawhney@sastry.info,banjeetsawhney@sastry.info,9044272905,9044272905,"30/92
+Deshpande Road, Hyderabad, Telangana, India",30 92 deshpande road hyderabad telangana india,Hyderabad,Telangana,2019-02-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000025,"Kumar, Buch and Murthy Pharmacy",PHARMACY,REG-000025,varsha98@lalla.net,varsha98@lalla.net,6339556418,6339556418,"52/27
+Dixit Marg, Vijayawada, Andhra Pradesh, India",52 27 dixit marg vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2020-04-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000026,"Suresh, Gera and Parsa Legal Service",LEGAL_SERVICE,REG-000026,prabhakarleela@walla.com,prabhakarleela@walla.com,6991322980,6991322980,"20/65
+Chad Road, Mysuru, Karnataka, India",20 65 chad road mysuru karnataka india,Mysuru,Karnataka,2013-01-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000027,Narain-Lanka Construction,CONSTRUCTION,REG-000027,jyotibhatnagar@mandal.net,jyotibhatnagar@mandal.net,8794472088,8794472088,"27, Roy Marg, Proddatur, Andhra Pradesh, India",27 roy marg proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2012-01-23,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000028,Borde Ltd Clinic,CLINIC,REG-000028,dalaja28@morar.com,dalaja28@morar.com,9188848567,9188848567,"71/73, Garg Path, Lucknow, Uttar Pradesh, India",71 73 garg path lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2022-12-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000029,"Lad, Khare and Tandon Pharmacy",PHARMACY,REG-000029,vmohanty@hari-saini.com,vmohanty@hari-saini.com,8044166665,8044166665,"H.No. 451, Walla Street, Vijayawada, Andhra Pradesh, India",h no 451 walla street vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2024-12-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000030,Saha-Agate Legal Service,LEGAL_SERVICE,REG-000030,psaha@iyengar-karan.com,psaha@iyengar-karan.com,7881537856,7881537856,"14/49
+Wason Marg, Bhubaneswar, Odisha, India",14 49 wason marg bhubaneswar odisha india,Bhubaneswar,Odisha,2026-03-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000031,Mammen-Bumb Clinic,CLINIC,REG-000031,tailorchaitaly@ravel.info,tailorchaitaly@ravel.info,8251394052,8251394052,"09/941
+Walia Ganj, Ahmedabad, Gujarat, India",09 941 walia ganj ahmedabad gujarat india,Ahmedabad,Gujarat,2023-03-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000032,Banik LLC Garage,GARAGE,REG-000032,raichaaya@bedi.com,raichaaya@bedi.com,6390561070,6390561070,"218, Mody, Proddatur, Andhra Pradesh, India",218 mody proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2015-10-21,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000033,Tiwari-Narain Legal Service,LEGAL_SERVICE,REG-000033,yadavipatel@chanda.com,yadavipatel@chanda.com,8658886865,8658886865,"H.No. 36
+Master Circle, Pune, Maharashtra, India",h no 36 master circle pune maharashtra india,Pune,Maharashtra,2019-08-13,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000034,Sarna Ltd Pharmacy,PHARMACY,REG-000034,uloyal@singh.com,uloyal@singh.com,9033255378,9033255378,"33/22, Borah Road, Hyderabad, Telangana, India",33 22 borah road hyderabad telangana india,Hyderabad,Telangana,2022-07-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000035,"Srinivasan, Naik and Ahuja Auto Repair",AUTO_REPAIR,REG-000035,gabaabeer@walia.org,gabaabeer@walia.org,6235925542,6235925542,"H.No. 352, Gandhi Circle, Proddatur, Andhra Pradesh, India",h no 352 gandhi circle proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2015-10-10,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000036,Prabhakar Group Diagnostic Center,DIAGNOSTIC_CENTER,REG-000036,veermore@chaudhari.com,veermore@chaudhari.com,9374197564,9374197564,"19/78, Krish Path, Coimbatore, Tamil Nadu, India",19 78 krish path coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2014-03-31,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000037,Nigam-Dass Clinic,CLINIC,REG-000037,chandransai@baria-pingle.com,chandransai@baria-pingle.com,6863685976,6863685976,"969
+Brar Ganj, Hyderabad, Telangana, India",969 brar ganj hyderabad telangana india,Hyderabad,Telangana,2016-04-13,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000038,"Hayer, Jha and Krishnamurthy Hospital",HOSPITAL,REG-000038,isaacnayar@dutt-venkataraman.com,isaacnayar@dutt-venkataraman.com,8346015054,8346015054,"77
+Seth Chowk, Warangal, Telangana, India",77 seth chowk warangal telangana india,Warangal,Telangana,2011-12-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000039,"Rajagopal, Padmanabhan and Nagar Garage",GARAGE,REG-000039,ramabhavna@jaggi-doshi.org,ramabhavna@jaggi-doshi.org,7718489844,7718489844,"H.No. 22, Chahal Circle, Bhubaneswar, Odisha, India",h no 22 chahal circle bhubaneswar odisha india,Bhubaneswar,Odisha,2023-03-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000040,Prasad-Malhotra Garage,GARAGE,REG-000040,ekantikaramanathan@soman-mital.net,ekantikaramanathan@soman-mital.net,8746672369,8746672369,"70
+Balakrishnan Marg, Coimbatore, Tamil Nadu, India",70 balakrishnan marg coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2017-06-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000041,Venkatesh-Kibe Garage,GARAGE,REG-000041,cmalhotra@gill-iyengar.org,cmalhotra@gill-iyengar.org,8826966435,8826966435,"07/719, Majumdar Nagar, Pune, Maharashtra, India",07 719 majumdar nagar pune maharashtra india,Pune,Maharashtra,2025-11-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000042,"Issac, Varkey and Mallick Garage",GARAGE,REG-000042,ysunder@dave.net,ysunder@dave.net,9398824523,9398824523,"05/04, Lal Street, Visakhapatnam, Andhra Pradesh, India",05 04 lal street visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2014-05-06,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000043,Din Ltd Clinic,CLINIC,REG-000043,tejas50@minhas.info,tejas50@minhas.info,8120483211,8120483211,"H.No. 48, Kamdar Chowk, Nagpur, Maharashtra, India",h no 48 kamdar chowk nagpur maharashtra india,Nagpur,Maharashtra,2022-08-31,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000044,"Sachdev, Choudhury and Garg Legal Service",LEGAL_SERVICE,REG-000044,qratta@dora.info,qratta@dora.info,6775129854,6775129854,"H.No. 888, Sampath Ganj, Coimbatore, Tamil Nadu, India",h no 888 sampath ganj coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2026-07-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000045,Dugar Inc Construction,CONSTRUCTION,REG-000045,utrivedi@borde.com,utrivedi@borde.com,9416123950,9416123950,"633, Dash Road, Hyderabad, Telangana, India",633 dash road hyderabad telangana india,Hyderabad,Telangana,2016-01-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000046,Ravi Ltd Garage,GARAGE,REG-000046,rehaanhayer@malhotra.com,rehaanhayer@malhotra.com,6997340264,6997340264,"88/52
+Singh, Coimbatore, Tamil Nadu, India",88 52 singh coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2014-08-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000047,Sha-Sinha Auto Repair,AUTO_REPAIR,REG-000047,deepa70@peri.com,deepa70@peri.com,7003358588,7003358588,"H.No. 62, Banerjee Marg, Bhubaneswar, Odisha, India",h no 62 banerjee marg bhubaneswar odisha india,Bhubaneswar,Odisha,2026-10-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000048,Venkatesh Group Auto Repair,AUTO_REPAIR,REG-000048,cbhatnagar@guha-ganesh.info,cbhatnagar@guha-ganesh.info,6121789597,6121789597,"10
+Wali Circle, Bhubaneswar, Odisha, India",10 wali circle bhubaneswar odisha india,Bhubaneswar,Odisha,2013-05-01,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000049,"Kale, Sunder and Pillay Legal Service",LEGAL_SERVICE,REG-000049,mekhala39@srinivas.com,mekhala39@srinivas.com,7173953237,7173953237,"H.No. 52
+Khalsa Path, Hyderabad, Telangana, India",h no 52 khalsa path hyderabad telangana india,Hyderabad,Telangana,2018-07-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000050,Upadhyay-Gade Diagnostic Center,DIAGNOSTIC_CENTER,REG-000050,wishiraju@soman.com,wishiraju@soman.com,9599254332,9599254332,"36, Ratti Road, Warangal, Telangana, India",36 ratti road warangal telangana india,Warangal,Telangana,2017-11-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000051,"Ganguly, Warrior and Sodhi Construction",CONSTRUCTION,REG-000051,revasharaf@mann.com,revasharaf@mann.com,8330897024,8330897024,"35/347, Nayar Chowk, Visakhapatnam, Andhra Pradesh, India",35 347 nayar chowk visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2014-04-25,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000052,Kurian-Dara Auto Repair,AUTO_REPAIR,REG-000052,advikamody@ganguly.com,advikamody@ganguly.com,6975198042,6975198042,"913
+Bakshi Path, Nagpur, Maharashtra, India",913 bakshi path nagpur maharashtra india,Nagpur,Maharashtra,2022-10-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000053,Savant Inc Hospital,HOSPITAL,REG-000053,dshah@chauhan.com,dshah@chauhan.com,9430401077,9430401077,"H.No. 78
+Upadhyay Zila, Warangal, Telangana, India",h no 78 upadhyay zila warangal telangana india,Warangal,Telangana,2016-07-22,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000054,"Shenoy, Maharaj and Chokshi Pharmacy",PHARMACY,REG-000054,uthakkar@deep.com,uthakkar@deep.com,6679703699,6679703699,"H.No. 483
+Kadakia Marg, Hyderabad, Telangana, India",h no 483 kadakia marg hyderabad telangana india,Hyderabad,Telangana,2023-11-27,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000055,Borde-Anne Clinic,CLINIC,REG-000055,jeremiahmodi@minhas.com,jeremiahmodi@minhas.com,8006677923,8006677923,"H.No. 005
+Dutt Ganj, Mysuru, Karnataka, India",h no 005 dutt ganj mysuru karnataka india,Mysuru,Karnataka,2016-09-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000056,Parekh LLC Diagnostic Center,DIAGNOSTIC_CENTER,REG-000056,odhaliwal@devi.info,odhaliwal@devi.info,9424481136,9424481136,"90
+Pillay Nagar, Vijayawada, Andhra Pradesh, India",90 pillay nagar vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2019-09-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000057,Nadkarni-Sundaram Construction,CONSTRUCTION,REG-000057,lakshmi23@sen.biz,lakshmi23@sen.biz,7624068727,7624068727,"27/902, Buch Ganj, Vijayawada, Andhra Pradesh, India",27 902 buch ganj vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2014-05-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000058,"Choudhury, Nanda and Bera Garage",GARAGE,REG-000058,falak88@saran.com,falak88@saran.com,9736794365,9736794365,"35
+Dubey Circle, Warangal, Telangana, India",35 dubey circle warangal telangana india,Warangal,Telangana,2026-05-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000059,Desai Ltd Construction,CONSTRUCTION,REG-000059,echokshi@sabharwal.com,echokshi@sabharwal.com,8463459972,8463459972,"H.No. 20
+Bedi Zila, Jaipur, Rajasthan, India",h no 20 bedi zila jaipur rajasthan india,Jaipur,Rajasthan,2014-03-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000060,Sandhu-Chatterjee Construction,CONSTRUCTION,REG-000060,chaudhurijasmit@bhakta-yohannan.com,chaudhurijasmit@bhakta-yohannan.com,8140964884,8140964884,"15
+Sem Path, Kolkata, West Bengal, India",15 sem path kolkata west bengal india,Kolkata,West Bengal,2023-01-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000061,Patil Inc Construction,CONSTRUCTION,REG-000061,trege@nagy-dada.com,trege@nagy-dada.com,8403877007,8403877007,"92
+Korpal Ganj, Pune, Maharashtra, India",92 korpal ganj pune maharashtra india,Pune,Maharashtra,2019-08-13,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000062,Lata Ltd Auto Repair,AUTO_REPAIR,REG-000062,yoshitapanchal@lad.biz,yoshitapanchal@lad.biz,6716456091,6716456091,"H.No. 31
+Dhawan Nagar, Kolkata, West Bengal, India",h no 31 dhawan nagar kolkata west bengal india,Kolkata,West Bengal,2021-05-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000063,Thaker Inc Clinic,CLINIC,REG-000063,urishillanarain@banik.com,urishillanarain@banik.com,9953001329,9953001329,"42
+Divan Chowk, Pune, Maharashtra, India",42 divan chowk pune maharashtra india,Pune,Maharashtra,2026-05-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000064,"Madan, Batta and Bhandari Auto Repair",AUTO_REPAIR,REG-000064,pnarayan@bera-lal.biz,pnarayan@bera-lal.biz,9691089707,9691089707,"59/696, Minhas Ganj, Chennai, Tamil Nadu, India",59 696 minhas ganj chennai tamil nadu india,Chennai,Tamil Nadu,2020-09-03,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000065,"Dhar, Borde and Anne Garage",GARAGE,REG-000065,gaurang74@balakrishnan-iyer.net,gaurang74@balakrishnan-iyer.net,9046154998,9046154998,"H.No. 19, Narayan Chowk, Aligarh, Uttar Pradesh, India",h no 19 narayan chowk aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2022-03-17,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000066,Bala PLC Legal Service,LEGAL_SERVICE,REG-000066,bhardwajbalhaar@bora.com,bhardwajbalhaar@bora.com,9410319781,9410319781,"359, Anne Nagar, Delhi, Delhi, India",359 anne nagar delhi delhi india,Delhi,Delhi,2012-12-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000067,Venkatesh PLC Pharmacy,PHARMACY,REG-000067,bhavini05@nath-ranganathan.biz,bhavini05@nath-ranganathan.biz,7804210529,7804210529,"H.No. 77
+Bora Marg, Nagpur, Maharashtra, India",h no 77 bora marg nagpur maharashtra india,Nagpur,Maharashtra,2024-01-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000068,Borra-Jha Legal Service,LEGAL_SERVICE,REG-000068,ishitababu@sabharwal.com,ishitababu@sabharwal.com,8586562495,8586562495,"162
+Comar Circle, Delhi, Delhi, India",162 comar circle delhi delhi india,Delhi,Delhi,2024-08-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000069,Bakshi PLC Pharmacy,PHARMACY,REG-000069,vghose@hayer.com,vghose@hayer.com,6917242316,6917242316,"822
+Mohan Street, Kochi, Kerala, India",822 mohan street kochi kerala india,Kochi,Kerala,2021-03-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000070,Kanda-Dugar Legal Service,LEGAL_SERVICE,REG-000070,dakshabaria@chhabra-dhar.com,dakshabaria@chhabra-dhar.com,6152992397,6152992397,"588, Arya Marg, Coimbatore, Tamil Nadu, India",588 arya marg coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2016-06-16,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000071,"Lanka, Natarajan and Luthra Diagnostic Center",DIAGNOSTIC_CENTER,REG-000071,babujanuja@palla-narula.biz,babujanuja@palla-narula.biz,6372943863,6372943863,"41, Agarwal Path, Lucknow, Uttar Pradesh, India",41 agarwal path lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2012-03-21,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000072,Natarajan-Patla Garage,GARAGE,REG-000072,rvasa@sarin.com,rvasa@sarin.com,8552534226,8552534226,"28/110, Som Ganj, Mumbai, Maharashtra, India",28 110 som ganj mumbai maharashtra india,Mumbai,Maharashtra,2017-08-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000073,Behl-Dhar Legal Service,LEGAL_SERVICE,REG-000073,abala@murthy.com,abala@murthy.com,7710101618,7710101618,"241
+Bedi, Mysuru, Karnataka, India",241 bedi mysuru karnataka india,Mysuru,Karnataka,2015-08-13,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000074,Chacko Inc Clinic,CLINIC,REG-000074,bhavyanath@sarraf-gupta.com,bhavyanath@sarraf-gupta.com,9666058865,9666058865,"75/08, Vig Street, Nagpur, Maharashtra, India",75 08 vig street nagpur maharashtra india,Nagpur,Maharashtra,2020-04-07,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000075,Balay Ltd Clinic,CLINIC,REG-000075,godawarhi@suri-mann.net,godawarhi@suri-mann.net,7647351636,7647351636,"H.No. 590, Walla Zila, Mumbai, Maharashtra, India",h no 590 walla zila mumbai maharashtra india,Mumbai,Maharashtra,2022-11-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000076,Kalla Ltd Garage,GARAGE,REG-000076,khoslavasatika@naidu-oommen.com,khoslavasatika@naidu-oommen.com,6171626665,6171626665,"H.No. 713
+Sodhi Nagar, Hyderabad, Telangana, India",h no 713 sodhi nagar hyderabad telangana india,Hyderabad,Telangana,2021-12-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000077,"Salvi, Merchant and Datta Clinic",CLINIC,REG-000077,wazirmahal@dixit.org,wazirmahal@dixit.org,6061290919,6061290919,"H.No. 94
+Upadhyay Circle, Vijayawada, Andhra Pradesh, India",h no 94 upadhyay circle vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2012-06-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000078,"Char, Rege and Kunda Pharmacy",PHARMACY,REG-000078,wdhillon@edwin-sankar.org,wdhillon@edwin-sankar.org,8554161678,8554161678,"05/155, Borde, Jaipur, Rajasthan, India",05 155 borde jaipur rajasthan india,Jaipur,Rajasthan,2012-09-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000079,Joshi-Lal Hospital,HOSPITAL,REG-000079,chatresh32@bajaj-mukherjee.org,chatresh32@bajaj-mukherjee.org,6541316904,6541316904,"H.No. 966
+Shah Nagar, Kolkata, West Bengal, India",h no 966 shah nagar kolkata west bengal india,Kolkata,West Bengal,2020-01-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000080,"Vaidya, Rajan and Vala Construction",CONSTRUCTION,REG-000080,uwali@hans-pillai.com,uwali@hans-pillai.com,7417185013,7417185013,"53/21
+Sura Street, Mysuru, Karnataka, India",53 21 sura street mysuru karnataka india,Mysuru,Karnataka,2014-09-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000081,Manda LLC Garage,GARAGE,REG-000081,bandilohit@mohan.com,bandilohit@mohan.com,9180080682,9180080682,"H.No. 95
+Cherian Street, Ahmedabad, Gujarat, India",h no 95 cherian street ahmedabad gujarat india,Ahmedabad,Gujarat,2025-10-09,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000082,Kara-Shetty Hospital,HOSPITAL,REG-000082,girik72@anne.biz,girik72@anne.biz,6010777908,6010777908,"703, Mandal Road, Bengaluru, Karnataka, India",703 mandal road bengaluru karnataka india,Bengaluru,Karnataka,2023-12-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000083,"Srinivasan, Modi and Sinha Diagnostic Center",DIAGNOSTIC_CENTER,REG-000083,michaelpuri@dhawan.com,michaelpuri@dhawan.com,7260329319,7260329319,"76/49, Vasa Marg, Kochi, Kerala, India",76 49 vasa marg kochi kerala india,Kochi,Kerala,2026-07-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000084,"Gola, Merchant and Madan Construction",CONSTRUCTION,REG-000084,ladthomas@dugar.com,ladthomas@dugar.com,7201450513,7201450513,"H.No. 955, Lalla Ganj, Jaipur, Rajasthan, India",h no 955 lalla ganj jaipur rajasthan india,Jaipur,Rajasthan,2024-01-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000085,"Dugal, Sahota and Kari Construction",CONSTRUCTION,REG-000085,ekbal50@dalia.info,ekbal50@dalia.info,9404234897,9404234897,"H.No. 377
+Narang Path, Delhi, Delhi, India",h no 377 narang path delhi delhi india,Delhi,Delhi,2019-07-16,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000086,"Golla, Sibal and Master Garage",GARAGE,REG-000086,farajchowdhury@venkatesh.com,farajchowdhury@venkatesh.com,7039477860,7039477860,"70
+Dora Nagar, Bhubaneswar, Odisha, India",70 dora nagar bhubaneswar odisha india,Bhubaneswar,Odisha,2015-09-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000087,"Vig, Gour and Soni Construction",CONSTRUCTION,REG-000087,gopalzayan@batta.com,gopalzayan@batta.com,7450347524,7450347524,"364
+Narayanan Road, Kochi, Kerala, India",364 narayanan road kochi kerala india,Kochi,Kerala,2011-11-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000088,Bhatnagar PLC Legal Service,LEGAL_SERVICE,REG-000088,vinaya75@mistry-devi.com,vinaya75@mistry-devi.com,6126528799,6126528799,"345
+Wali Circle, Jaipur, Rajasthan, India",345 wali circle jaipur rajasthan india,Jaipur,Rajasthan,2022-08-01,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000089,"Anne, Boase and Mall Auto Repair",AUTO_REPAIR,REG-000089,kumerbimala@gole.com,kumerbimala@gole.com,7103608378,7103608378,"45/575, Ghose, Chennai, Tamil Nadu, India",45 575 ghose chennai tamil nadu india,Chennai,Tamil Nadu,2021-10-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000090,"Dar, Jayaraman and Chandran Clinic",CLINIC,REG-000090,cpau@shah.com,cpau@shah.com,8158098356,8158098356,"H.No. 601, Chada, Delhi, Delhi, India",h no 601 chada delhi delhi india,Delhi,Delhi,2022-04-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000091,Manda-Jain Garage,GARAGE,REG-000091,panchalfalak@chand-sarma.com,panchalfalak@chand-sarma.com,8430232925,8430232925,"H.No. 964
+Nazareth Street, Delhi, Delhi, India",h no 964 nazareth street delhi delhi india,Delhi,Delhi,2019-04-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000092,Kaul-Dewan Legal Service,LEGAL_SERVICE,REG-000092,indira67@gola.biz,indira67@gola.biz,9253958284,9253958284,"225
+Sodhi Road, Mumbai, Maharashtra, India",225 sodhi road mumbai maharashtra india,Mumbai,Maharashtra,2015-02-23,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000093,Panchal-Golla Pharmacy,PHARMACY,REG-000093,aachalwalia@gopal.com,aachalwalia@gopal.com,7296012338,7296012338,"56, Chahal, Warangal, Telangana, India",56 chahal warangal telangana india,Warangal,Telangana,2024-07-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000094,Sarraf-Srinivasan Hospital,HOSPITAL,REG-000094,shethgirik@nagy.org,shethgirik@nagy.org,6421061953,6421061953,"951
+Shankar Circle, Hyderabad, Telangana, India",951 shankar circle hyderabad telangana india,Hyderabad,Telangana,2014-08-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000095,"Rajagopal, Golla and Biswas Legal Service",LEGAL_SERVICE,REG-000095,hredhaanbandi@boase-gupta.com,hredhaanbandi@boase-gupta.com,6645749536,6645749536,"H.No. 41
+Kade Street, Proddatur, Andhra Pradesh, India",h no 41 kade street proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2019-04-05,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000096,"Handa, Prakash and Bhakta Hospital",HOSPITAL,REG-000096,halderomaja@venkataraman.com,halderomaja@venkataraman.com,7403895532,7403895532,"91/403, Swaminathan Road, Lucknow, Uttar Pradesh, India",91 403 swaminathan road lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2023-02-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000097,"Keer, Yogi and Doshi Garage",GARAGE,REG-000097,vrinda57@sane.org,vrinda57@sane.org,6902344632,6902344632,"995
+Barad Street, Nagpur, Maharashtra, India",995 barad street nagpur maharashtra india,Nagpur,Maharashtra,2021-10-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000098,Parmer-Nagar Garage,GARAGE,REG-000098,yoshitachhabra@dave.info,yoshitachhabra@dave.info,6663006703,6663006703,"33, Wagle Marg, Warangal, Telangana, India",33 wagle marg warangal telangana india,Warangal,Telangana,2018-11-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000099,Bobal LLC Diagnostic Center,DIAGNOSTIC_CENTER,REG-000099,wableavni@murty.biz,wableavni@murty.biz,9090546718,9090546718,"H.No. 54, Kata Nagar, Aligarh, Uttar Pradesh, India",h no 54 kata nagar aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2026-03-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000100,"Ganesan, Goda and Bahri Auto Repair",AUTO_REPAIR,REG-000100,udhar@sankaran-seth.info,udhar@sankaran-seth.info,9798150591,9798150591,"88/44, Dutta Street, Pune, Maharashtra, India",88 44 dutta street pune maharashtra india,Pune,Maharashtra,2021-04-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000101,Dora-Dutt Hospital,HOSPITAL,REG-000101,warjas45@thakur-varty.net,warjas45@thakur-varty.net,9534299287,9534299287,"49/54
+Bhatt Nagar, Vijayawada, Andhra Pradesh, India",49 54 bhatt nagar vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2013-12-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000102,"Pai, Bera and Raju Auto Repair",AUTO_REPAIR,REG-000102,mandaprisha@srivastava.net,mandaprisha@srivastava.net,8348501950,8348501950,"H.No. 11, Seshadri Ganj, Nagpur, Maharashtra, India",h no 11 seshadri ganj nagpur maharashtra india,Nagpur,Maharashtra,2016-08-21,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000103,"Patel, Maharaj and Sule Legal Service",LEGAL_SERVICE,REG-000103,teerth64@dasgupta-joshi.com,teerth64@dasgupta-joshi.com,7314924646,7314924646,"673, Acharya Road, Chennai, Tamil Nadu, India",673 acharya road chennai tamil nadu india,Chennai,Tamil Nadu,2023-08-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000104,Maharaj Inc Construction,CONSTRUCTION,REG-000104,hemangini80@contractor-kala.com,hemangini80@contractor-kala.com,7025075389,7025075389,"61/809, Zacharia Nagar, Bhubaneswar, Odisha, India",61 809 zacharia nagar bhubaneswar odisha india,Bhubaneswar,Odisha,2016-03-13,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000105,"Zachariah, Prabhakar and Ganesan Hospital",HOSPITAL,REG-000105,groverrushil@dash.net,groverrushil@dash.net,6895297961,6895297961,"34, Shan Street, Lucknow, Uttar Pradesh, India",34 shan street lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2024-07-18,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000106,"Din, Tata and Lata Clinic",CLINIC,REG-000106,anshmodi@ratti-bahl.org,anshmodi@ratti-bahl.org,9842999280,9842999280,"515
+Varkey Chowk, Lucknow, Uttar Pradesh, India",515 varkey chowk lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2018-01-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000107,Kohli-Sarraf Clinic,CLINIC,REG-000107,sandhuazaan@murthy-ratta.com,sandhuazaan@murthy-ratta.com,7024572592,7024572592,"270, Ahuja Zila, Visakhapatnam, Andhra Pradesh, India",270 ahuja zila visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2011-11-28,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000108,Bahl-Ghosh Clinic,CLINIC,REG-000108,nilimahans@bose.biz,nilimahans@bose.biz,9167510067,9167510067,"15, Dash Ganj, Pune, Maharashtra, India",15 dash ganj pune maharashtra india,Pune,Maharashtra,2015-03-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000109,"Sengupta, Chaudry and Shah Garage",GARAGE,REG-000109,waglejeet@gola.biz,waglejeet@gola.biz,6789820102,6789820102,"72
+Jhaveri Nagar, Aligarh, Uttar Pradesh, India",72 jhaveri nagar aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2019-09-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000110,Bava LLC Auto Repair,AUTO_REPAIR,REG-000110,yauvani24@bains.com,yauvani24@bains.com,9481994561,9481994561,"H.No. 12
+Kale Circle, Bhubaneswar, Odisha, India",h no 12 kale circle bhubaneswar odisha india,Bhubaneswar,Odisha,2015-12-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000111,"Kohli, Hayre and Ganesh Clinic",CLINIC,REG-000111,latwal@pai.com,latwal@pai.com,8558030252,8558030252,"96/069
+Patla Ganj, Bhubaneswar, Odisha, India",96 069 patla ganj bhubaneswar odisha india,Bhubaneswar,Odisha,2015-03-15,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000112,"Patel, Dora and Sandal Pharmacy",PHARMACY,REG-000112,ladlibhardwaj@kara-sha.net,ladlibhardwaj@kara-sha.net,7223459609,7223459609,"10/06
+Sachdev Marg, Ahmedabad, Gujarat, India",10 06 sachdev marg ahmedabad gujarat india,Ahmedabad,Gujarat,2012-12-30,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000113,Kala Group Diagnostic Center,DIAGNOSTIC_CENTER,REG-000113,upadhritiram@saran-hegde.com,upadhritiram@saran-hegde.com,8619958809,8619958809,"621, Lall Street, Aligarh, Uttar Pradesh, India",621 lall street aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2012-04-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000114,Bala Ltd Hospital,HOSPITAL,REG-000114,ominhas@mand-tank.net,ominhas@mand-tank.net,7946789957,7946789957,"078, Bhatti Zila, Vijayawada, Andhra Pradesh, India",078 bhatti zila vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2014-03-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000115,Chand-Karpe Auto Repair,AUTO_REPAIR,REG-000115,vpradhan@bakshi-nagar.com,vpradhan@bakshi-nagar.com,7786185668,7786185668,"H.No. 43, De Ganj, Kolkata, West Bengal, India",h no 43 de ganj kolkata west bengal india,Kolkata,West Bengal,2013-12-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000116,Pall-Randhawa Pharmacy,PHARMACY,REG-000116,waliharinakshi@misra.com,waliharinakshi@misra.com,7599742460,7599742460,"313, Sachdeva Street, Delhi, Delhi, India",313 sachdeva street delhi delhi india,Delhi,Delhi,2015-07-06,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000117,Trivedi PLC Hospital,HOSPITAL,REG-000117,purohitisaiah@soman-balakrishnan.com,purohitisaiah@soman-balakrishnan.com,6998813220,6998813220,"03/02
+Gola Circle, Coimbatore, Tamil Nadu, India",03 02 gola circle coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2014-07-31,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000118,Dora-Parekh Hospital,HOSPITAL,REG-000118,ramakrishnanriya@raj.biz,ramakrishnanriya@raj.biz,6213743499,6213743499,"97/23, Bava Zila, Kochi, Kerala, India",97 23 bava zila kochi kerala india,Kochi,Kerala,2026-05-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000119,Bal Group Legal Service,LEGAL_SERVICE,REG-000119,calebshetty@ram-lanka.info,calebshetty@ram-lanka.info,7249573708,7249573708,"H.No. 348
+Dua Zila, Pune, Maharashtra, India",h no 348 dua zila pune maharashtra india,Pune,Maharashtra,2022-05-19,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000120,Mannan-Iyengar Legal Service,LEGAL_SERVICE,REG-000120,gulatiharsh@sankaran.net,gulatiharsh@sankaran.net,7772125941,7772125941,"H.No. 268
+Narang Chowk, Bhubaneswar, Odisha, India",h no 268 narang chowk bhubaneswar odisha india,Bhubaneswar,Odisha,2023-02-16,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000121,Bava-Swaminathan Auto Repair,AUTO_REPAIR,REG-000121,qadim85@sem-sunder.com,qadim85@sem-sunder.com,6907874937,6907874937,"H.No. 152, Krishnamurthy Street, Vijayawada, Andhra Pradesh, India",h no 152 krishnamurthy street vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2024-04-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000122,Bahri PLC Pharmacy,PHARMACY,REG-000122,bhattacharyyaagastya@rajan-hari.org,bhattacharyyaagastya@rajan-hari.org,6357690881,6357690881,"683, Reddy Chowk, Kolkata, West Bengal, India",683 reddy chowk kolkata west bengal india,Kolkata,West Bengal,2024-06-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000123,Mannan LLC Garage,GARAGE,REG-000123,sathvik88@thakkar.com,sathvik88@thakkar.com,8302648012,8302648012,"01
+Ratta Zila, Mysuru, Karnataka, India",01 ratta zila mysuru karnataka india,Mysuru,Karnataka,2015-06-07,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000124,"Menon, Som and Dass Diagnostic Center",DIAGNOSTIC_CENTER,REG-000124,xkeer@aurora-gokhale.com,xkeer@aurora-gokhale.com,7390320289,7390320289,"48/97
+Kurian Circle, Visakhapatnam, Andhra Pradesh, India",48 97 kurian circle visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2012-01-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000125,Keer-Kanda Pharmacy,PHARMACY,REG-000125,nicholas79@bhagat.com,nicholas79@bhagat.com,7009293986,7009293986,"H.No. 36, Pillai Ganj, Vijayawada, Andhra Pradesh, India",h no 36 pillai ganj vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2025-01-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000126,"Oza, Nath and Wable Garage",GARAGE,REG-000126,palanamaira@anand-yohannan.com,palanamaira@anand-yohannan.com,9559483610,9559483610,"125, Raja Street, Kolkata, West Bengal, India",125 raja street kolkata west bengal india,Kolkata,West Bengal,2019-01-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000127,"Chowdhury, Pingle and Viswanathan Construction",CONSTRUCTION,REG-000127,comaraashi@setty.com,comaraashi@setty.com,9983241589,9983241589,"778
+Sarna Road, Chennai, Tamil Nadu, India",778 sarna road chennai tamil nadu india,Chennai,Tamil Nadu,2024-09-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000128,"Walla, Vig and Ramesh Legal Service",LEGAL_SERVICE,REG-000128,chaudharijanya@din-babu.com,chaudharijanya@din-babu.com,7919445975,7919445975,"523, Kumer Nagar, Pune, Maharashtra, India",523 kumer nagar pune maharashtra india,Pune,Maharashtra,2024-11-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000129,Tata-Naik Clinic,CLINIC,REG-000129,salvipraneel@grewal-sahota.com,salvipraneel@grewal-sahota.com,9100442274,9100442274,"83, Dugar Ganj, Bengaluru, Karnataka, India",83 dugar ganj bengaluru karnataka india,Bengaluru,Karnataka,2020-02-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000130,Gopal Ltd Hospital,HOSPITAL,REG-000130,odika46@ahuja.com,odika46@ahuja.com,9731923204,9731923204,"29/96
+Bhalla Marg, Warangal, Telangana, India",29 96 bhalla marg warangal telangana india,Warangal,Telangana,2024-06-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000131,"Saran, Saraf and Aurora Diagnostic Center",DIAGNOSTIC_CENTER,REG-000131,wjayaraman@chadha-om.net,wjayaraman@chadha-om.net,7812465266,7812465266,"59/10
+Dixit Circle, Mumbai, Maharashtra, India",59 10 dixit circle mumbai maharashtra india,Mumbai,Maharashtra,2020-12-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000132,Sehgal Inc Legal Service,LEGAL_SERVICE,REG-000132,bachittariyer@amble.com,bachittariyer@amble.com,7694294536,7694294536,"483, Ghose Path, Chennai, Tamil Nadu, India",483 ghose path chennai tamil nadu india,Chennai,Tamil Nadu,2021-03-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000133,Ranganathan-Manda Diagnostic Center,DIAGNOSTIC_CENTER,REG-000133,dkari@narayanan-gandhi.com,dkari@narayanan-gandhi.com,9781382728,9781382728,"07/48, Kulkarni Street, Bhubaneswar, Odisha, India",07 48 kulkarni street bhubaneswar odisha india,Bhubaneswar,Odisha,2018-04-13,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000134,Patla Ltd Auto Repair,AUTO_REPAIR,REG-000134,azaanvenkatesh@bera.com,azaanvenkatesh@bera.com,8076430749,8076430749,"472
+Sane, Bhubaneswar, Odisha, India",472 sane bhubaneswar odisha india,Bhubaneswar,Odisha,2015-10-15,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000135,Padmanabhan Ltd Legal Service,LEGAL_SERVICE,REG-000135,divya31@lad.org,divya31@lad.org,9193111354,9193111354,"H.No. 388, Babu Street, Lucknow, Uttar Pradesh, India",h no 388 babu street lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2020-11-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000136,Kohli-Dhar Garage,GARAGE,REG-000136,sanghavansha@edwin-peri.com,sanghavansha@edwin-peri.com,6317379377,6317379377,"H.No. 252
+Tank Path, Coimbatore, Tamil Nadu, India",h no 252 tank path coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2018-10-03,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000137,Gala-Choudhury Construction,CONSTRUCTION,REG-000137,vrinda26@mannan.com,vrinda26@mannan.com,8877718262,8877718262,"92/01, Varughese Nagar, Kochi, Kerala, India",92 01 varughese nagar kochi kerala india,Kochi,Kerala,2013-07-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000138,"Dara, Madan and Rajan Pharmacy",PHARMACY,REG-000138,ahujavasudha@konda-deshmukh.com,ahujavasudha@konda-deshmukh.com,7713775956,7713775956,"519, Lad Zila, Kochi, Kerala, India",519 lad zila kochi kerala india,Kochi,Kerala,2022-03-28,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000139,Kala Group Legal Service,LEGAL_SERVICE,REG-000139,sanaya65@banik-mahajan.com,sanaya65@banik-mahajan.com,7168116239,7168116239,"H.No. 995, Bassi Street, Delhi, Delhi, India",h no 995 bassi street delhi delhi india,Delhi,Delhi,2024-02-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000140,Arya LLC Auto Repair,AUTO_REPAIR,REG-000140,upadhyayekalinga@goyal.biz,upadhyayekalinga@goyal.biz,8618481905,8618481905,"393, Andra Ganj, Ahmedabad, Gujarat, India",393 andra ganj ahmedabad gujarat india,Ahmedabad,Gujarat,2025-05-07,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000141,Talwar-Majumdar Diagnostic Center,DIAGNOSTIC_CENTER,REG-000141,raudayita@setty.com,raudayita@setty.com,6535955936,6535955936,"58/348, Patla, Coimbatore, Tamil Nadu, India",58 348 patla coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2011-12-30,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000142,"Deol, Lal and Randhawa Construction",CONSTRUCTION,REG-000142,tdube@karnik.com,tdube@karnik.com,9263005766,9263005766,"22, Sankaran, Coimbatore, Tamil Nadu, India",22 sankaran coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2021-12-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000143,Loyal and Sons Pharmacy,PHARMACY,REG-000143,harshchaudhuri@singh.com,harshchaudhuri@singh.com,9903853282,9903853282,"45/716, Chana Path, Kolkata, West Bengal, India",45 716 chana path kolkata west bengal india,Kolkata,West Bengal,2025-05-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000144,Pillai Ltd Clinic,CLINIC,REG-000144,vnarula@savant-parsa.com,vnarula@savant-parsa.com,7074168073,7074168073,"H.No. 53
+Chawla, Ahmedabad, Gujarat, India",h no 53 chawla ahmedabad gujarat india,Ahmedabad,Gujarat,2014-10-30,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000145,"Vyas, Bawa and Chadha Pharmacy",PHARMACY,REG-000145,samarthgoda@sem.biz,samarthgoda@sem.biz,7933718747,7933718747,"10/76, Mander Zila, Coimbatore, Tamil Nadu, India",10 76 mander zila coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2021-09-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000146,Dara-Pillay Diagnostic Center,DIAGNOSTIC_CENTER,REG-000146,rbhatti@buch-chandran.info,rbhatti@buch-chandran.info,8384685804,8384685804,"H.No. 520, Kibe Road, Visakhapatnam, Andhra Pradesh, India",h no 520 kibe road visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2018-10-17,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000147,Gole PLC Garage,GARAGE,REG-000147,priyaandra@ranganathan.com,priyaandra@ranganathan.com,7109654155,7109654155,"89, Sagar Nagar, Jaipur, Rajasthan, India",89 sagar nagar jaipur rajasthan india,Jaipur,Rajasthan,2015-09-05,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000148,Narasimhan-Kalla Hospital,HOSPITAL,REG-000148,chakradevtaneja@chad-rajagopalan.net,chakradevtaneja@chad-rajagopalan.net,8541657196,8541657196,"H.No. 687, Nadkarni Street, Coimbatore, Tamil Nadu, India",h no 687 nadkarni street coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2021-07-29,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000149,"Khatri, Shetty and Sinha Construction",CONSTRUCTION,REG-000149,ememon@bose-mani.com,ememon@bose-mani.com,7657545277,7657545277,"H.No. 908, Shah Path, Pune, Maharashtra, India",h no 908 shah path pune maharashtra india,Pune,Maharashtra,2020-12-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000150,"Keer, Kaur and Dalal Hospital",HOSPITAL,REG-000150,anjali56@bajwa.com,anjali56@bajwa.com,8560059603,8560059603,"85/67
+Parikh Road, Coimbatore, Tamil Nadu, India",85 67 parikh road coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2017-03-08,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000151,Chakrabarti Inc Garage,GARAGE,REG-000151,nbakshi@pathak.biz,nbakshi@pathak.biz,7875778581,7875778581,"54/56
+Buch Chowk, Nagpur, Maharashtra, India",54 56 buch chowk nagpur maharashtra india,Nagpur,Maharashtra,2021-02-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000152,Borde Inc Diagnostic Center,DIAGNOSTIC_CENTER,REG-000152,jatinchandra@krishnamurthy.org,jatinchandra@krishnamurthy.org,7082076762,7082076762,"413, Shetty Marg, Lucknow, Uttar Pradesh, India",413 shetty marg lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2016-05-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000153,"Borra, Sridhar and Yohannan Clinic",CLINIC,REG-000153,senayaan@dhaliwal-bala.com,senayaan@dhaliwal-bala.com,6903965410,6903965410,"H.No. 084, Muni Path, Warangal, Telangana, India",h no 084 muni path warangal telangana india,Warangal,Telangana,2013-04-19,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000154,Shere Inc Construction,CONSTRUCTION,REG-000154,hsaxena@sethi.com,hsaxena@sethi.com,7714442022,7714442022,"33/20, Chada Road, Coimbatore, Tamil Nadu, India",33 20 chada road coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2018-02-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000155,"Kala, Kala and Dani Diagnostic Center",DIAGNOSTIC_CENTER,REG-000155,abhimanyu54@swamy.net,abhimanyu54@swamy.net,6699882417,6699882417,"H.No. 964
+Choudhry Path, Bhubaneswar, Odisha, India",h no 964 choudhry path bhubaneswar odisha india,Bhubaneswar,Odisha,2025-08-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000156,"Wali, Sane and Sami Clinic",CLINIC,REG-000156,vchowdhury@ramesh.org,vchowdhury@ramesh.org,9898833605,9898833605,"H.No. 043, Sankaran Zila, Kochi, Kerala, India",h no 043 sankaran zila kochi kerala india,Kochi,Kerala,2013-06-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000157,"Sha, Iyer and Gopal Garage",GARAGE,REG-000157,ekaninair@garg.biz,ekaninair@garg.biz,6322748139,6322748139,"84, Dave Circle, Nagpur, Maharashtra, India",84 dave circle nagpur maharashtra india,Nagpur,Maharashtra,2026-05-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000158,Walla Ltd Hospital,HOSPITAL,REG-000158,chandraanthony@dhingra-chakraborty.biz,chandraanthony@dhingra-chakraborty.biz,9878125957,9878125957,"H.No. 16, Korpal Road, Ahmedabad, Gujarat, India",h no 16 korpal road ahmedabad gujarat india,Ahmedabad,Gujarat,2021-06-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000159,"Mitter, Tak and Krish Garage",GARAGE,REG-000159,gsaran@mukherjee-jaggi.info,gsaran@mukherjee-jaggi.info,8111181938,8111181938,"15/216
+Karan Chowk, Kochi, Kerala, India",15 216 karan chowk kochi kerala india,Kochi,Kerala,2024-05-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000160,Karpe-Bassi Diagnostic Center,DIAGNOSTIC_CENTER,REG-000160,pathakjagdish@bail-madan.info,pathakjagdish@bail-madan.info,7273588111,7273588111,"65/696
+Dasgupta Zila, Aligarh, Uttar Pradesh, India",65 696 dasgupta zila aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2021-03-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000161,"Pandit, Doctor and Mukherjee Legal Service",LEGAL_SERVICE,REG-000161,jdeshmukh@murthy-rajagopal.net,jdeshmukh@murthy-rajagopal.net,7817969870,7817969870,"123
+Bhalla Road, Mysuru, Karnataka, India",123 bhalla road mysuru karnataka india,Mysuru,Karnataka,2022-07-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000162,Char-Nagy Legal Service,LEGAL_SERVICE,REG-000162,hema40@vora-baria.com,hema40@vora-baria.com,7922840188,7922840188,"H.No. 999, Yohannan Road, Kolkata, West Bengal, India",h no 999 yohannan road kolkata west bengal india,Kolkata,West Bengal,2012-03-30,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000163,Mital LLC Construction,CONSTRUCTION,REG-000163,ananddarpan@talwar-dhar.com,ananddarpan@talwar-dhar.com,6867931252,6867931252,"17/06, Sehgal Circle, Bhubaneswar, Odisha, India",17 06 sehgal circle bhubaneswar odisha india,Bhubaneswar,Odisha,2020-08-16,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000164,Ramakrishnan-Kala Construction,CONSTRUCTION,REG-000164,ddin@deshmukh.com,ddin@deshmukh.com,8352225252,8352225252,"197, Pandit Chowk, Jaipur, Rajasthan, India",197 pandit chowk jaipur rajasthan india,Jaipur,Rajasthan,2014-07-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000165,"Borra, Soman and Sahni Pharmacy",PHARMACY,REG-000165,rakshadhaliwal@grewal.com,rakshadhaliwal@grewal.com,8857367768,8857367768,"H.No. 478, Apte Path, Bengaluru, Karnataka, India",h no 478 apte path bengaluru karnataka india,Bengaluru,Karnataka,2025-01-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000166,Sane-Wadhwa Hospital,HOSPITAL,REG-000166,bariajanya@devan.org,bariajanya@devan.org,7970527107,7970527107,"43, Choudhury Path, Jaipur, Rajasthan, India",43 choudhury path jaipur rajasthan india,Jaipur,Rajasthan,2012-08-23,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000167,Goyal LLC Auto Repair,AUTO_REPAIR,REG-000167,takzayyan@dubey.net,takzayyan@dubey.net,8003772606,8003772606,"H.No. 10
+Randhawa Road, Mysuru, Karnataka, India",h no 10 randhawa road mysuru karnataka india,Mysuru,Karnataka,2023-02-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000168,Sidhu-Uppal Clinic,CLINIC,REG-000168,rameshdivya@walla-purohit.com,rameshdivya@walla-purohit.com,9402987514,9402987514,"468
+Pant, Lucknow, Uttar Pradesh, India",468 pant lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2021-12-23,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000169,Bhasin and Sons Pharmacy,PHARMACY,REG-000169,qushi91@ratti.org,qushi91@ratti.org,6184020970,6184020970,"23
+Mall Street, Ahmedabad, Gujarat, India",23 mall street ahmedabad gujarat india,Ahmedabad,Gujarat,2023-08-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000170,Johal LLC Construction,CONSTRUCTION,REG-000170,jdey@bhatia.com,jdey@bhatia.com,8265995343,8265995343,"30/518
+Brahmbhatt Ganj, Chennai, Tamil Nadu, India",30 518 brahmbhatt ganj chennai tamil nadu india,Chennai,Tamil Nadu,2015-10-16,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000171,Varma-Chad Pharmacy,PHARMACY,REG-000171,ramafalan@char.com,ramafalan@char.com,6254891513,6254891513,"79/75, Shetty Circle, Visakhapatnam, Andhra Pradesh, India",79 75 shetty circle visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2021-02-16,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000172,Narang-Ganesan Construction,CONSTRUCTION,REG-000172,abhimanyusamra@tak.info,abhimanyusamra@tak.info,8300701003,8300701003,"H.No. 769
+Chanda Street, Delhi, Delhi, India",h no 769 chanda street delhi delhi india,Delhi,Delhi,2022-05-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000173,"Arya, Sule and Khalsa Diagnostic Center",DIAGNOSTIC_CENTER,REG-000173,rakshabrar@prakash.com,rakshabrar@prakash.com,8867240661,8867240661,"98/28, Nagi, Ahmedabad, Gujarat, India",98 28 nagi ahmedabad gujarat india,Ahmedabad,Gujarat,2013-09-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000174,Halder-Tailor Construction,CONSTRUCTION,REG-000174,samar64@ray-ram.info,samar64@ray-ram.info,9564268037,9564268037,"21/73, Mannan Street, Vijayawada, Andhra Pradesh, India",21 73 mannan street vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2013-05-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000175,Mann-Sami Pharmacy,PHARMACY,REG-000175,lbanerjee@grewal-kanda.org,lbanerjee@grewal-kanda.org,8426194197,8426194197,"H.No. 089
+Tella Path, Delhi, Delhi, India",h no 089 tella path delhi delhi india,Delhi,Delhi,2020-11-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000176,"Bhardwaj, Goda and Dua Pharmacy",PHARMACY,REG-000176,majumdarvyanjana@thaman-golla.com,majumdarvyanjana@thaman-golla.com,7522185201,7522185201,"H.No. 77, Bhatia, Warangal, Telangana, India",h no 77 bhatia warangal telangana india,Warangal,Telangana,2020-06-09,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000177,Anne-Date Garage,GARAGE,REG-000177,pwalla@baral-pandey.info,pwalla@baral-pandey.info,9983202195,9983202195,"H.No. 12, Kant Zila, Bengaluru, Karnataka, India",h no 12 kant zila bengaluru karnataka india,Bengaluru,Karnataka,2017-05-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000178,Sankaran Group Garage,GARAGE,REG-000178,inaya13@mammen.org,inaya13@mammen.org,7935247762,7935247762,"H.No. 46
+Loyal Marg, Mumbai, Maharashtra, India",h no 46 loyal marg mumbai maharashtra india,Mumbai,Maharashtra,2013-02-01,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000179,Khalsa-Jhaveri Construction,CONSTRUCTION,REG-000179,loganmohanty@nayar.com,loganmohanty@nayar.com,9589506633,9589506633,"H.No. 98
+Solanki Marg, Kochi, Kerala, India",h no 98 solanki marg kochi kerala india,Kochi,Kerala,2013-09-29,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000180,Seshadri PLC Pharmacy,PHARMACY,REG-000180,behltheodore@sama.com,behltheodore@sama.com,6831019616,6831019616,"66/61, Brahmbhatt Nagar, Kolkata, West Bengal, India",66 61 brahmbhatt nagar kolkata west bengal india,Kolkata,West Bengal,2019-11-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000181,"Narayanan, Butala and Lanka Diagnostic Center",DIAGNOSTIC_CENTER,REG-000181,chanderupma@padmanabhan-basu.com,chanderupma@padmanabhan-basu.com,8033066435,8033066435,"827
+Ahuja Circle, Lucknow, Uttar Pradesh, India",827 ahuja circle lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2016-07-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000182,Shroff Inc Garage,GARAGE,REG-000182,wahabnagi@pillai.com,wahabnagi@pillai.com,7725633255,7725633255,"66/884, Gala Road, Pune, Maharashtra, India",66 884 gala road pune maharashtra india,Pune,Maharashtra,2020-09-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000183,"Raval, Chahal and Dash Auto Repair",AUTO_REPAIR,REG-000183,ggera@tailor.net,ggera@tailor.net,6895616780,6895616780,"H.No. 642, Nath Road, Nagpur, Maharashtra, India",h no 642 nath road nagpur maharashtra india,Nagpur,Maharashtra,2022-09-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000184,Walla PLC Garage,GARAGE,REG-000184,balvan39@shukla-seshadri.org,balvan39@shukla-seshadri.org,6291683839,6291683839,"H.No. 507
+Hari, Lucknow, Uttar Pradesh, India",h no 507 hari lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2012-05-31,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000185,"Kashyap, Grewal and Nayar Garage",GARAGE,REG-000185,bhaktaamaira@ramanathan.com,bhaktaamaira@ramanathan.com,9160243983,9160243983,"92/997, Prabhakar Chowk, Mumbai, Maharashtra, India",92 997 prabhakar chowk mumbai maharashtra india,Mumbai,Maharashtra,2016-09-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000186,"Bal, Bassi and Sami Pharmacy",PHARMACY,REG-000186,upatla@bajwa-chahal.com,upatla@bajwa-chahal.com,9279998944,9279998944,"02, Chatterjee Zila, Lucknow, Uttar Pradesh, India",02 chatterjee zila lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2015-12-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000187,Lalla-Dash Pharmacy,PHARMACY,REG-000187,amol65@handa.com,amol65@handa.com,8435135831,8435135831,"619, Banerjee Marg, Nagpur, Maharashtra, India",619 banerjee marg nagpur maharashtra india,Nagpur,Maharashtra,2020-08-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000188,"Ratti, Bajwa and Karpe Garage",GARAGE,REG-000188,aachaldugal@chad.info,aachaldugal@chad.info,6291227695,6291227695,"30, Gill Circle, Aligarh, Uttar Pradesh, India",30 gill circle aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2013-08-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000189,Sawhney-Bandi Construction,CONSTRUCTION,REG-000189,xbalay@saini.com,xbalay@saini.com,6386846889,6386846889,"427
+Divan Ganj, Delhi, Delhi, India",427 divan ganj delhi delhi india,Delhi,Delhi,2025-11-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000190,Ratti-Mahal Hospital,HOSPITAL,REG-000190,madhavi71@nagar.com,madhavi71@nagar.com,6327504726,6327504726,"70/246, Ahuja Path, Kochi, Kerala, India",70 246 ahuja path kochi kerala india,Kochi,Kerala,2017-11-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000191,Kale LLC Auto Repair,AUTO_REPAIR,REG-000191,jsankar@sandhu-narasimhan.com,jsankar@sandhu-narasimhan.com,6010045049,6010045049,"08
+Cherian Road, Proddatur, Andhra Pradesh, India",08 cherian road proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2025-03-19,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000192,Dubey Group Pharmacy,PHARMACY,REG-000192,zparmer@dube.net,zparmer@dube.net,7742263449,7742263449,"64/08
+Sachar, Bhubaneswar, Odisha, India",64 08 sachar bhubaneswar odisha india,Bhubaneswar,Odisha,2020-04-04,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000193,"Batra, Pillay and Sridhar Legal Service",LEGAL_SERVICE,REG-000193,kparmar@lanka.com,kparmar@lanka.com,6473197681,6473197681,"609, Sule Circle, Nagpur, Maharashtra, India",609 sule circle nagpur maharashtra india,Nagpur,Maharashtra,2013-10-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000194,"Karnik, Pradhan and Sibal Pharmacy",PHARMACY,REG-000194,ozamugdha@chandra.org,ozamugdha@chandra.org,7660753527,7660753527,"H.No. 61
+Doshi Ganj, Nagpur, Maharashtra, India",h no 61 doshi ganj nagpur maharashtra india,Nagpur,Maharashtra,2015-03-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000195,Deol-Murty Pharmacy,PHARMACY,REG-000195,nairsai@goel-sha.com,nairsai@goel-sha.com,8508461098,8508461098,"H.No. 072, Nayar Marg, Delhi, Delhi, India",h no 072 nayar marg delhi delhi india,Delhi,Delhi,2016-06-15,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000196,Rattan-Mander Diagnostic Center,DIAGNOSTIC_CENTER,REG-000196,omore@kothari.com,omore@kothari.com,8659272063,8659272063,"H.No. 221
+Nagi, Jaipur, Rajasthan, India",h no 221 nagi jaipur rajasthan india,Jaipur,Rajasthan,2022-02-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000197,"Bhatt, Luthra and Oak Garage",GARAGE,REG-000197,bwagle@bajwa.com,bwagle@bajwa.com,9197277948,9197277948,"07/996, Sani Nagar, Chennai, Tamil Nadu, India",07 996 sani nagar chennai tamil nadu india,Chennai,Tamil Nadu,2022-06-17,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000198,Sehgal Ltd Diagnostic Center,DIAGNOSTIC_CENTER,REG-000198,basakeiravati@varghese.com,basakeiravati@varghese.com,6513704475,6513704475,"76, Mukhopadhyay Road, Visakhapatnam, Andhra Pradesh, India",76 mukhopadhyay road visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2017-08-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000199,"Khanna, Bhatt and Rana Pharmacy",PHARMACY,REG-000199,vasanalata@varghese-sathe.biz,vasanalata@varghese-sathe.biz,8283395914,8283395914,"832
+Bala, Bhubaneswar, Odisha, India",832 bala bhubaneswar odisha india,Bhubaneswar,Odisha,2020-02-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000200,Walia-Mane Legal Service,LEGAL_SERVICE,REG-000200,gauravsen@raja.com,gauravsen@raja.com,8617894492,8617894492,"615
+Raghavan Path, Bengaluru, Karnataka, India",615 raghavan path bengaluru karnataka india,Bengaluru,Karnataka,2017-07-23,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000201,Bhargava-Bath Legal Service,LEGAL_SERVICE,REG-000201,sharafedhitha@ghosh.com,sharafedhitha@ghosh.com,6061772952,6061772952,"80/36
+Bail Marg, Pune, Maharashtra, India",80 36 bail marg pune maharashtra india,Pune,Maharashtra,2024-03-24,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000202,"Pandit, Banerjee and Kapur Clinic",CLINIC,REG-000202,oeshi39@ray.com,oeshi39@ray.com,8654938145,8654938145,"00/24
+Brahmbhatt Marg, Jaipur, Rajasthan, India",00 24 brahmbhatt marg jaipur rajasthan india,Jaipur,Rajasthan,2023-07-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000203,Bora-Bhattacharyya Pharmacy,PHARMACY,REG-000203,aarna32@mannan.com,aarna32@mannan.com,9907233284,9907233284,"H.No. 91, Choudhury Road, Chennai, Tamil Nadu, India",h no 91 choudhury road chennai tamil nadu india,Chennai,Tamil Nadu,2026-06-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000204,Srinivasan Ltd Hospital,HOSPITAL,REG-000204,maanavgera@seshadri.org,maanavgera@seshadri.org,6503912337,6503912337,"17/43, Soman Nagar, Mysuru, Karnataka, India",17 43 soman nagar mysuru karnataka india,Mysuru,Karnataka,2013-06-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000205,Dass Inc Auto Repair,AUTO_REPAIR,REG-000205,nairpavani@issac-iyengar.com,nairpavani@issac-iyengar.com,6253040189,6253040189,"73/41
+Gokhale Marg, Proddatur, Andhra Pradesh, India",73 41 gokhale marg proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2025-04-22,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000206,Sengupta Inc Hospital,HOSPITAL,REG-000206,avni28@rattan-suresh.com,avni28@rattan-suresh.com,9790682649,9790682649,"513
+Sarna, Hyderabad, Telangana, India",513 sarna hyderabad telangana india,Hyderabad,Telangana,2018-08-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000207,"Kala, Bawa and Suresh Pharmacy",PHARMACY,REG-000207,plad@ratta-ramakrishnan.com,plad@ratta-ramakrishnan.com,9479851227,9479851227,"H.No. 966, Bakshi Circle, Lucknow, Uttar Pradesh, India",h no 966 bakshi circle lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2013-11-23,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000208,Taneja-Pandey Auto Repair,AUTO_REPAIR,REG-000208,elijahkannan@hora.info,elijahkannan@hora.info,7224751200,7224751200,"46/764
+Shukla Marg, Ahmedabad, Gujarat, India",46 764 shukla marg ahmedabad gujarat india,Ahmedabad,Gujarat,2018-05-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000209,"Bhavsar, Shenoy and Gade Auto Repair",AUTO_REPAIR,REG-000209,goelqasim@kapadia-sami.com,goelqasim@kapadia-sami.com,8850841479,8850841479,"H.No. 877, Chaudhary Road, Visakhapatnam, Andhra Pradesh, India",h no 877 chaudhary road visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2026-07-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000210,"Chacko, Dhingra and Sankaran Diagnostic Center",DIAGNOSTIC_CENTER,REG-000210,hsagar@hans.com,hsagar@hans.com,8109573644,8109573644,"H.No. 427, Devan Nagar, Kolkata, West Bengal, India",h no 427 devan nagar kolkata west bengal india,Kolkata,West Bengal,2015-08-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000211,Cheema Ltd Garage,GARAGE,REG-000211,regepraneel@dubey-sarin.net,regepraneel@dubey-sarin.net,9148035207,9148035207,"68/686
+Dhaliwal Path, Delhi, Delhi, India",68 686 dhaliwal path delhi delhi india,Delhi,Delhi,2017-12-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000212,Ramaswamy-Deshmukh Garage,GARAGE,REG-000212,harinimore@bhat.org,harinimore@bhat.org,7520628857,7520628857,"52/317
+Sandal Road, Coimbatore, Tamil Nadu, India",52 317 sandal road coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2020-02-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000213,Subramanian-Mangal Auto Repair,AUTO_REPAIR,REG-000213,niharikabansal@dhaliwal-bansal.com,niharikabansal@dhaliwal-bansal.com,6851089539,6851089539,"548, Arya, Chennai, Tamil Nadu, India",548 arya chennai tamil nadu india,Chennai,Tamil Nadu,2026-10-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000214,"Sekhon, Chaudhari and Bava Construction",CONSTRUCTION,REG-000214,harishkumar@brahmbhatt-bhakta.com,harishkumar@brahmbhatt-bhakta.com,8500835073,8500835073,"H.No. 754, Kar Nagar, Nagpur, Maharashtra, India",h no 754 kar nagar nagpur maharashtra india,Nagpur,Maharashtra,2018-06-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000215,Wason-Tata Garage,GARAGE,REG-000215,pranavzachariah@samra.net,pranavzachariah@samra.net,8662183782,8662183782,"H.No. 21
+Bhat Zila, Vijayawada, Andhra Pradesh, India",h no 21 bhat zila vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2023-10-08,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000216,Sarraf-Pall Construction,CONSTRUCTION,REG-000216,dominic12@palla-bora.org,dominic12@palla-bora.org,7954599102,7954599102,"H.No. 98, Borra Road, Lucknow, Uttar Pradesh, India",h no 98 borra road lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2024-07-19,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000217,"Srinivas, Krishnamurthy and Guha Pharmacy",PHARMACY,REG-000217,jacob61@brahmbhatt.org,jacob61@brahmbhatt.org,8311202092,8311202092,"H.No. 843, Garde, Bhubaneswar, Odisha, India",h no 843 garde bhubaneswar odisha india,Bhubaneswar,Odisha,2022-02-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000218,Arora-Jhaveri Legal Service,LEGAL_SERVICE,REG-000218,nswamy@buch-parikh.net,nswamy@buch-parikh.net,7242252022,7242252022,"06
+Sawhney Path, Ahmedabad, Gujarat, India",06 sawhney path ahmedabad gujarat india,Ahmedabad,Gujarat,2026-04-30,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000219,Palan-Balakrishnan Auto Repair,AUTO_REPAIR,REG-000219,zchhabra@chandran.com,zchhabra@chandran.com,9906047499,9906047499,"253, Setty Nagar, Coimbatore, Tamil Nadu, India",253 setty nagar coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2018-11-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000220,Devi PLC Hospital,HOSPITAL,REG-000220,reyansh64@anand.org,reyansh64@anand.org,8814048944,8814048944,"010, Chandran, Jaipur, Rajasthan, India",010 chandran jaipur rajasthan india,Jaipur,Rajasthan,2016-01-03,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000221,Verma-Bhatti Construction,CONSTRUCTION,REG-000221,fsaha@sachar.com,fsaha@sachar.com,6341318063,6341318063,"33/155
+Bhasin Zila, Lucknow, Uttar Pradesh, India",33 155 bhasin zila lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2021-03-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000222,"Salvi, Golla and Dave Legal Service",LEGAL_SERVICE,REG-000222,ynath@rout.com,ynath@rout.com,8084551409,8084551409,"250, Menon Nagar, Hyderabad, Telangana, India",250 menon nagar hyderabad telangana india,Hyderabad,Telangana,2012-09-09,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000223,Goswami and Sons Clinic,CLINIC,REG-000223,aroy@jayaraman-mann.com,aroy@jayaraman-mann.com,8667691962,8667691962,"25/938, Rajagopalan Circle, Proddatur, Andhra Pradesh, India",25 938 rajagopalan circle proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2018-05-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000224,Mukhopadhyay LLC Pharmacy,PHARMACY,REG-000224,chamelimand@mani.com,chamelimand@mani.com,8554908753,8554908753,"620, Sachdeva Path, Nagpur, Maharashtra, India",620 sachdeva path nagpur maharashtra india,Nagpur,Maharashtra,2018-11-13,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000225,Prashad-Johal Hospital,HOSPITAL,REG-000225,pbedi@sarna.com,pbedi@sarna.com,7693922367,7693922367,"H.No. 919
+Chaudhuri Ganj, Kolkata, West Bengal, India",h no 919 chaudhuri ganj kolkata west bengal india,Kolkata,West Bengal,2013-09-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000226,Char-Bera Auto Repair,AUTO_REPAIR,REG-000226,labanpingle@gokhale-mann.info,labanpingle@gokhale-mann.info,7587807376,7587807376,"H.No. 797
+Sem Zila, Delhi, Delhi, India",h no 797 sem zila delhi delhi india,Delhi,Delhi,2020-11-05,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000227,Kothari-Bhatnagar Legal Service,LEGAL_SERVICE,REG-000227,isaiah12@karnik-sekhon.net,isaiah12@karnik-sekhon.net,6121916717,6121916717,"27, Thakur Zila, Mumbai, Maharashtra, India",27 thakur zila mumbai maharashtra india,Mumbai,Maharashtra,2017-07-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000228,Raghavan Group Clinic,CLINIC,REG-000228,kamyadave@karan.org,kamyadave@karan.org,6471584151,6471584151,"95/862
+Pall Street, Vijayawada, Andhra Pradesh, India",95 862 pall street vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2013-12-10,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000229,"Pillai, Batra and Mukherjee Diagnostic Center",DIAGNOSTIC_CENTER,REG-000229,korpalmugdha@murthy.org,korpalmugdha@murthy.org,6559249930,6559249930,"H.No. 23, Dua Street, Proddatur, Andhra Pradesh, India",h no 23 dua street proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2025-07-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000230,Kalla-Dora Pharmacy,PHARMACY,REG-000230,girindra23@grover.info,girindra23@grover.info,9121968888,9121968888,"39/01
+Rana Circle, Vijayawada, Andhra Pradesh, India",39 01 rana circle vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2013-12-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000231,"Das, Kurian and Goel Construction",CONSTRUCTION,REG-000231,bhavika27@sen.com,bhavika27@sen.com,9432846182,9432846182,"03/18, Dhaliwal Zila, Kolkata, West Bengal, India",03 18 dhaliwal zila kolkata west bengal india,Kolkata,West Bengal,2019-03-22,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000232,Sankar PLC Diagnostic Center,DIAGNOSTIC_CENTER,REG-000232,grewalpriya@bhat.info,grewalpriya@bhat.info,6489002249,6489002249,"175, Bhatti Circle, Lucknow, Uttar Pradesh, India",175 bhatti circle lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2021-06-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000233,"Sehgal, Bassi and Karan Auto Repair",AUTO_REPAIR,REG-000233,cvenkatesh@nagarajan.info,cvenkatesh@nagarajan.info,9817850240,9817850240,"H.No. 77, Bassi Zila, Ahmedabad, Gujarat, India",h no 77 bassi zila ahmedabad gujarat india,Ahmedabad,Gujarat,2012-05-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000234,Rout-Dara Construction,CONSTRUCTION,REG-000234,goswamikavya@borde-khanna.info,goswamikavya@borde-khanna.info,6349654946,6349654946,"04/551
+Sampath Ganj, Coimbatore, Tamil Nadu, India",04 551 sampath ganj coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2019-11-19,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000235,"Wadhwa, Nagarajan and Vyas Auto Repair",AUTO_REPAIR,REG-000235,ekalinga63@loke.com,ekalinga63@loke.com,9908938945,9908938945,"644
+Thaker, Delhi, Delhi, India",644 thaker delhi delhi india,Delhi,Delhi,2012-02-14,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000236,Mani-Hayer Pharmacy,PHARMACY,REG-000236,alexander98@handa.info,alexander98@handa.info,8656442367,8656442367,"30/03
+Talwar, Hyderabad, Telangana, India",30 03 talwar hyderabad telangana india,Hyderabad,Telangana,2020-03-01,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000237,Mahajan-Patel Hospital,HOSPITAL,REG-000237,jyotimukhopadhyay@parsa-soni.com,jyotimukhopadhyay@parsa-soni.com,9371789836,9371789836,"03/629
+Bali Road, Aligarh, Uttar Pradesh, India",03 629 bali road aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2023-08-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000238,Bhatia Ltd Hospital,HOSPITAL,REG-000238,ssetty@yohannan.com,ssetty@yohannan.com,8536192605,8536192605,"H.No. 254
+Butala Street, Visakhapatnam, Andhra Pradesh, India",h no 254 butala street visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2024-06-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000239,Singh-Bal Legal Service,LEGAL_SERVICE,REG-000239,trivenirout@tella.com,trivenirout@tella.com,6901335661,6901335661,"03/692
+Krishnan Street, Kolkata, West Bengal, India",03 692 krishnan street kolkata west bengal india,Kolkata,West Bengal,2024-12-09,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000240,Narain-Raman Legal Service,LEGAL_SERVICE,REG-000240,jvarma@walla-rajagopalan.info,jvarma@walla-rajagopalan.info,8081414637,8081414637,"H.No. 790, Natt Nagar, Hyderabad, Telangana, India",h no 790 natt nagar hyderabad telangana india,Hyderabad,Telangana,2013-05-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000241,Hora-Kuruvilla Construction,CONSTRUCTION,REG-000241,tkashyap@oza-varughese.com,tkashyap@oza-varughese.com,7324754266,7324754266,"903
+Bhalla Nagar, Proddatur, Andhra Pradesh, India",903 bhalla nagar proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2015-01-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000242,"Mohanty, Bhatia and Choudhury Hospital",HOSPITAL,REG-000242,sachdevaishaan@chauhan.com,sachdevaishaan@chauhan.com,7471498572,7471498572,"H.No. 127
+Sibal Zila, Delhi, Delhi, India",h no 127 sibal zila delhi delhi india,Delhi,Delhi,2018-07-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000243,Radhakrishnan-Korpal Construction,CONSTRUCTION,REG-000243,prishashenoy@karnik.com,prishashenoy@karnik.com,9947463149,9947463149,"139
+Palla Zila, Delhi, Delhi, India",139 palla zila delhi delhi india,Delhi,Delhi,2026-07-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000244,Ramanathan-Rajagopal Clinic,CLINIC,REG-000244,daksh00@koshy.net,daksh00@koshy.net,8954561988,8954561988,"58/739
+Balakrishnan Nagar, Jaipur, Rajasthan, India",58 739 balakrishnan nagar jaipur rajasthan india,Jaipur,Rajasthan,2019-09-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000245,Grewal PLC Hospital,HOSPITAL,REG-000245,vedhika76@sandhu.com,vedhika76@sandhu.com,7614023842,7614023842,"H.No. 988, Kadakia Chowk, Aligarh, Uttar Pradesh, India",h no 988 kadakia chowk aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2014-02-16,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000246,"Varughese, Setty and Nori Auto Repair",AUTO_REPAIR,REG-000246,emody@rajagopalan-patel.com,emody@rajagopalan-patel.com,8559317632,8559317632,"912, Wali Street, Coimbatore, Tamil Nadu, India",912 wali street coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2021-07-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000247,Kala-Basu Legal Service,LEGAL_SERVICE,REG-000247,ramanathanranveer@khare-parmar.org,ramanathanranveer@khare-parmar.org,9004569956,9004569956,"H.No. 36
+Lal Marg, Kochi, Kerala, India",h no 36 lal marg kochi kerala india,Kochi,Kerala,2020-08-03,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000248,Vasa PLC Clinic,CLINIC,REG-000248,chakrabortypanini@thakkar.biz,chakrabortypanini@thakkar.biz,7408262734,7408262734,"H.No. 67, Ghosh Chowk, Bengaluru, Karnataka, India",h no 67 ghosh chowk bengaluru karnataka india,Bengaluru,Karnataka,2015-09-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000249,Madan and Sons Clinic,CLINIC,REG-000249,nathanbanik@varma.com,nathanbanik@varma.com,9469707505,9469707505,"04/771, Konda Street, Visakhapatnam, Andhra Pradesh, India",04 771 konda street visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2018-12-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000250,"Om, Bhakta and Chand Garage",GARAGE,REG-000250,tanmayidevi@sen-narain.net,tanmayidevi@sen-narain.net,9366718252,9366718252,"246
+Deep Path, Bhubaneswar, Odisha, India",246 deep path bhubaneswar odisha india,Bhubaneswar,Odisha,2014-02-23,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000251,Agate PLC Garage,GARAGE,REG-000251,dbahl@babu.com,dbahl@babu.com,8465892576,8465892576,"505
+Prasad Ganj, Aligarh, Uttar Pradesh, India",505 prasad ganj aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2014-06-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000252,Oommen-Sehgal Diagnostic Center,DIAGNOSTIC_CENTER,REG-000252,edhitha68@verma.biz,edhitha68@verma.biz,6541997655,6541997655,"217
+Rama, Bhubaneswar, Odisha, India",217 rama bhubaneswar odisha india,Bhubaneswar,Odisha,2020-05-13,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000253,Peri-Rama Diagnostic Center,DIAGNOSTIC_CENTER,REG-000253,mannanyashvi@sangha.com,mannanyashvi@sangha.com,6784997761,6784997761,"91/321, Buch Zila, Mysuru, Karnataka, India",91 321 buch zila mysuru karnataka india,Mysuru,Karnataka,2013-02-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000254,Nazareth-Bedi Garage,GARAGE,REG-000254,upasnaaggarwal@sheth-uppal.net,upasnaaggarwal@sheth-uppal.net,8189488922,8189488922,"71/08, Sule Marg, Lucknow, Uttar Pradesh, India",71 08 sule marg lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2013-07-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000255,Dutta PLC Garage,GARAGE,REG-000255,timothy62@mutti-raja.com,timothy62@mutti-raja.com,6994970845,6994970845,"75
+Ratta Road, Proddatur, Andhra Pradesh, India",75 ratta road proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2015-08-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000256,Mane LLC Legal Service,LEGAL_SERVICE,REG-000256,apalla@dalia-oza.com,apalla@dalia-oza.com,8005425627,8005425627,"904, Jani Road, Jaipur, Rajasthan, India",904 jani road jaipur rajasthan india,Jaipur,Rajasthan,2023-03-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000257,Rao-Goel Pharmacy,PHARMACY,REG-000257,baladvaith@singh.net,baladvaith@singh.net,8115779034,8115779034,"73, Babu Nagar, Chennai, Tamil Nadu, India",73 babu nagar chennai tamil nadu india,Chennai,Tamil Nadu,2023-11-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000258,Viswanathan-Vaidya Auto Repair,AUTO_REPAIR,REG-000258,adweta06@soman-devi.com,adweta06@soman-devi.com,9448707744,9448707744,"49/72
+Ahluwalia Zila, Hyderabad, Telangana, India",49 72 ahluwalia zila hyderabad telangana india,Hyderabad,Telangana,2024-10-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000259,Doctor Inc Pharmacy,PHARMACY,REG-000259,kantranveer@basak.net,kantranveer@basak.net,7985558406,7985558406,"H.No. 56
+Baral Road, Ahmedabad, Gujarat, India",h no 56 baral road ahmedabad gujarat india,Ahmedabad,Gujarat,2012-03-18,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000260,"Konda, Mody and Ravi Hospital",HOSPITAL,REG-000260,urishillasen@sidhu.info,urishillasen@sidhu.info,7612215435,7612215435,"H.No. 432, Shankar Street, Pune, Maharashtra, India",h no 432 shankar street pune maharashtra india,Pune,Maharashtra,2025-11-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000261,"Pathak, Deep and Nath Pharmacy",PHARMACY,REG-000261,mbhatnagar@jani-choudhary.com,mbhatnagar@jani-choudhary.com,8686101366,8686101366,"08, Krishnamurthy Path, Mumbai, Maharashtra, India",08 krishnamurthy path mumbai maharashtra india,Mumbai,Maharashtra,2016-05-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000262,Dhar-Kamdar Clinic,CLINIC,REG-000262,mahikasalvi@kara.com,mahikasalvi@kara.com,8088608450,8088608450,"85/07
+Pall Circle, Mysuru, Karnataka, India",85 07 pall circle mysuru karnataka india,Mysuru,Karnataka,2015-04-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000263,"Rai, Vasa and Chander Pharmacy",PHARMACY,REG-000263,kohligarima@prasad.org,kohligarima@prasad.org,7432517159,7432517159,"H.No. 563, Bhagat Road, Kochi, Kerala, India",h no 563 bhagat road kochi kerala india,Kochi,Kerala,2025-04-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000264,Arya-Shah Clinic,CLINIC,REG-000264,pathakchavvi@nori.com,pathakchavvi@nori.com,6015940811,6015940811,"32, Sura Chowk, Nagpur, Maharashtra, India",32 sura chowk nagpur maharashtra india,Nagpur,Maharashtra,2019-11-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000265,Hegde-Bail Garage,GARAGE,REG-000265,rgera@madan-rao.com,rgera@madan-rao.com,8950346465,8950346465,"H.No. 67, Konda Zila, Vijayawada, Andhra Pradesh, India",h no 67 konda zila vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2016-02-14,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000266,Tripathi LLC Diagnostic Center,DIAGNOSTIC_CENTER,REG-000266,chandaekapad@jayaraman.com,chandaekapad@jayaraman.com,9489972443,9489972443,"H.No. 867
+Sahota Marg, Delhi, Delhi, India",h no 867 sahota marg delhi delhi india,Delhi,Delhi,2019-11-26,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000267,Bandi and Sons Construction,CONSTRUCTION,REG-000267,ati42@walla.org,ati42@walla.org,8568767867,8568767867,"249, Pandit Path, Ahmedabad, Gujarat, India",249 pandit path ahmedabad gujarat india,Ahmedabad,Gujarat,2020-05-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000268,Trivedi Ltd Hospital,HOSPITAL,REG-000268,jpatla@sule-borde.com,jpatla@sule-borde.com,8049299104,8049299104,"92/282
+Comar Path, Lucknow, Uttar Pradesh, India",92 282 comar path lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2012-03-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000269,Dua-Mitter Garage,GARAGE,REG-000269,kai84@acharya.com,kai84@acharya.com,6159446559,6159446559,"68, Nayak Chowk, Coimbatore, Tamil Nadu, India",68 nayak chowk coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2025-09-19,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000270,"Narula, Kohli and Ram Clinic",CLINIC,REG-000270,priya64@shankar.com,priya64@shankar.com,6505427103,6505427103,"H.No. 250, Lall Marg, Ahmedabad, Gujarat, India",h no 250 lall marg ahmedabad gujarat india,Ahmedabad,Gujarat,2017-06-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000271,"Goda, Bumb and Prabhakar Hospital",HOSPITAL,REG-000271,kkothari@kohli.com,kkothari@kohli.com,8646386089,8646386089,"50
+Roy Ganj, Coimbatore, Tamil Nadu, India",50 roy ganj coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2011-11-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000272,Tak Inc Construction,CONSTRUCTION,REG-000272,aarna82@narayanan.com,aarna82@narayanan.com,6515343051,6515343051,"34/278
+Arya Marg, Warangal, Telangana, India",34 278 arya marg warangal telangana india,Warangal,Telangana,2023-05-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000273,"Sem, Khanna and Golla Garage",GARAGE,REG-000273,fitanmohanty@sangha.biz,fitanmohanty@sangha.biz,9198406213,9198406213,"H.No. 243
+Krish Chowk, Delhi, Delhi, India",h no 243 krish chowk delhi delhi india,Delhi,Delhi,2015-12-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000274,"Soman, Ramaswamy and Oza Legal Service",LEGAL_SERVICE,REG-000274,sakshamloke@lad.com,sakshamloke@lad.com,7162899252,7162899252,"H.No. 33
+Sengupta Road, Ahmedabad, Gujarat, India",h no 33 sengupta road ahmedabad gujarat india,Ahmedabad,Gujarat,2014-10-07,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000275,"Vasa, Prabhu and Chana Auto Repair",AUTO_REPAIR,REG-000275,jasmitdutt@kibe.com,jasmitdutt@kibe.com,7958963068,7958963068,"H.No. 348, Sidhu, Chennai, Tamil Nadu, India",h no 348 sidhu chennai tamil nadu india,Chennai,Tamil Nadu,2016-02-23,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000276,Vala-Parekh Construction,CONSTRUCTION,REG-000276,anika07@yogi-bir.com,anika07@yogi-bir.com,6619126697,6619126697,"93/527, Sankaran Chowk, Kolkata, West Bengal, India",93 527 sankaran chowk kolkata west bengal india,Kolkata,West Bengal,2022-09-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000277,Sekhon PLC Legal Service,LEGAL_SERVICE,REG-000277,gaurika46@walia.com,gaurika46@walia.com,8877222507,8877222507,"H.No. 28, Uppal Road, Bhubaneswar, Odisha, India",h no 28 uppal road bhubaneswar odisha india,Bhubaneswar,Odisha,2014-08-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000278,"Mukherjee, Ramakrishnan and Dua Clinic",CLINIC,REG-000278,rattainaya@bhat.info,rattainaya@bhat.info,6368762149,6368762149,"H.No. 32
+Patla Road, Bhubaneswar, Odisha, India",h no 32 patla road bhubaneswar odisha india,Bhubaneswar,Odisha,2012-10-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000279,Mani-Mishra Clinic,CLINIC,REG-000279,tailordaksha@choudhury-anne.net,tailordaksha@choudhury-anne.net,7298664774,7298664774,"91, Deshmukh Zila, Lucknow, Uttar Pradesh, India",91 deshmukh zila lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2022-07-18,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000280,"Chawla, Borde and Pillai Pharmacy",PHARMACY,REG-000280,sai79@keer-parikh.com,sai79@keer-parikh.com,9582629751,9582629751,"H.No. 662
+Ratti Road, Ahmedabad, Gujarat, India",h no 662 ratti road ahmedabad gujarat india,Ahmedabad,Gujarat,2018-10-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000281,Jain-Johal Diagnostic Center,DIAGNOSTIC_CENTER,REG-000281,jeevikanagar@badami.biz,jeevikanagar@badami.biz,7653704323,7653704323,"64, Parmer Street, Ahmedabad, Gujarat, India",64 parmer street ahmedabad gujarat india,Ahmedabad,Gujarat,2014-03-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000282,Puri-Kala Garage,GARAGE,REG-000282,kritikaanand@sodhi.com,kritikaanand@sodhi.com,9901036232,9901036232,"528, Varma Marg, Jaipur, Rajasthan, India",528 varma marg jaipur rajasthan india,Jaipur,Rajasthan,2016-11-18,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000283,Goel and Sons Diagnostic Center,DIAGNOSTIC_CENTER,REG-000283,goelhemangini@narayanan-dar.com,goelhemangini@narayanan-dar.com,8748065323,8748065323,"149, Karnik Path, Warangal, Telangana, India",149 karnik path warangal telangana india,Warangal,Telangana,2013-02-18,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000284,Barad LLC Construction,CONSTRUCTION,REG-000284,chamelibhandari@pillai-shenoy.com,chamelibhandari@pillai-shenoy.com,7309061017,7309061017,"26/747, Chokshi Path, Jaipur, Rajasthan, India",26 747 chokshi path jaipur rajasthan india,Jaipur,Rajasthan,2018-08-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000285,Memon Ltd Construction,CONSTRUCTION,REG-000285,isaiahdhingra@bahl.net,isaiahdhingra@bahl.net,9502980176,9502980176,"79
+Kunda Zila, Proddatur, Andhra Pradesh, India",79 kunda zila proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2020-10-04,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000286,"Rao, Rattan and Kalla Legal Service",LEGAL_SERVICE,REG-000286,saumya59@mitter-das.org,saumya59@mitter-das.org,7893214548,7893214548,"98/073, Goyal Circle, Ahmedabad, Gujarat, India",98 073 goyal circle ahmedabad gujarat india,Ahmedabad,Gujarat,2022-08-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000287,Kari-Ramesh Auto Repair,AUTO_REPAIR,REG-000287,daksha97@ramakrishnan.info,daksha97@ramakrishnan.info,7655621422,7655621422,"H.No. 484
+Kaur Street, Mumbai, Maharashtra, India",h no 484 kaur street mumbai maharashtra india,Mumbai,Maharashtra,2012-05-27,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000288,Sidhu-Bora Construction,CONSTRUCTION,REG-000288,unnibabu@sheth.com,unnibabu@sheth.com,7708941542,7708941542,"H.No. 888, Kala Chowk, Visakhapatnam, Andhra Pradesh, India",h no 888 kala chowk visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2024-07-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000289,Rao-Ratta Diagnostic Center,DIAGNOSTIC_CENTER,REG-000289,deharrison@om-oak.com,deharrison@om-oak.com,9982497566,9982497566,"99, Dalal Zila, Coimbatore, Tamil Nadu, India",99 dalal zila coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2024-10-07,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000290,"Bhagat, Chatterjee and Dara Construction",CONSTRUCTION,REG-000290,vbir@bhakta.com,vbir@bhakta.com,8669736811,8669736811,"91
+Mittal Path, Delhi, Delhi, India",91 mittal path delhi delhi india,Delhi,Delhi,2021-11-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000291,Shenoy-Choudhry Hospital,HOSPITAL,REG-000291,mishraanusha@sharma.biz,mishraanusha@sharma.biz,7559787885,7559787885,"88
+Yohannan, Chennai, Tamil Nadu, India",88 yohannan chennai tamil nadu india,Chennai,Tamil Nadu,2018-02-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000292,"Manne, Shukla and Mallick Pharmacy",PHARMACY,REG-000292,etagarde@dass.biz,etagarde@dass.biz,6464285066,6464285066,"H.No. 787, Kadakia Street, Mumbai, Maharashtra, India",h no 787 kadakia street mumbai maharashtra india,Mumbai,Maharashtra,2018-05-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000293,Anne-Nanda Hospital,HOSPITAL,REG-000293,jeet86@mani-sane.info,jeet86@mani-sane.info,7836190881,7836190881,"37, Basu Nagar, Proddatur, Andhra Pradesh, India",37 basu nagar proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2017-12-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000294,Bora and Sons Legal Service,LEGAL_SERVICE,REG-000294,madanxiti@kibe.net,madanxiti@kibe.net,7526901163,7526901163,"19, Suri Circle, Chennai, Tamil Nadu, India",19 suri circle chennai tamil nadu india,Chennai,Tamil Nadu,2023-04-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000295,Virk-Thaman Hospital,HOSPITAL,REG-000295,mugdhabala@shere.info,mugdhabala@shere.info,9293893970,9293893970,"238
+Basak Street, Proddatur, Andhra Pradesh, India",238 basak street proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2024-06-07,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000296,Dara-Dasgupta Hospital,HOSPITAL,REG-000296,garimaratti@viswanathan-lall.info,garimaratti@viswanathan-lall.info,7485226935,7485226935,"H.No. 816
+Tata Chowk, Bengaluru, Karnataka, India",h no 816 tata chowk bengaluru karnataka india,Bengaluru,Karnataka,2020-09-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000297,Dua-Sen Legal Service,LEGAL_SERVICE,REG-000297,fnagar@batra.biz,fnagar@batra.biz,8463136919,8463136919,"14
+Manne Chowk, Proddatur, Andhra Pradesh, India",14 manne chowk proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2016-01-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000298,Ranganathan-Chaudhary Clinic,CLINIC,REG-000298,nsridhar@kadakia.com,nsridhar@kadakia.com,9560113317,9560113317,"H.No. 865
+Garde Ganj, Mysuru, Karnataka, India",h no 865 garde ganj mysuru karnataka india,Mysuru,Karnataka,2020-04-23,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000299,Taneja Group Hospital,HOSPITAL,REG-000299,jonathankala@parsa.net,jonathankala@parsa.net,7983975563,7983975563,"65/748
+Kashyap Circle, Bengaluru, Karnataka, India",65 748 kashyap circle bengaluru karnataka india,Bengaluru,Karnataka,2018-09-10,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000300,Patla Group Pharmacy,PHARMACY,REG-000300,priyaboase@venkataraman.com,priyaboase@venkataraman.com,6641628847,6641628847,"H.No. 07, Walia Circle, Warangal, Telangana, India",h no 07 walia circle warangal telangana india,Warangal,Telangana,2022-06-13,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000301,Nagy-Badami Pharmacy,PHARMACY,REG-000301,wsaraf@ahuja.net,wsaraf@ahuja.net,6366023429,6366023429,"45/859
+Jain Ganj, Nagpur, Maharashtra, India",45 859 jain ganj nagpur maharashtra india,Nagpur,Maharashtra,2017-11-30,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000302,"Rao, Gara and Sandal Clinic",CLINIC,REG-000302,ayushpai@purohit.com,ayushpai@purohit.com,9052555508,9052555508,"26, Chahal Circle, Bengaluru, Karnataka, India",26 chahal circle bengaluru karnataka india,Bengaluru,Karnataka,2012-07-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000303,Singhal-Ravi Pharmacy,PHARMACY,REG-000303,hritikrai@pillai.com,hritikrai@pillai.com,9413209534,9413209534,"17/34
+Sabharwal Circle, Delhi, Delhi, India",17 34 sabharwal circle delhi delhi india,Delhi,Delhi,2025-03-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000304,Kamdar Group Legal Service,LEGAL_SERVICE,REG-000304,ebaria@manne.com,ebaria@manne.com,6667866547,6667866547,"689
+Sani Zila, Pune, Maharashtra, India",689 sani zila pune maharashtra india,Pune,Maharashtra,2018-10-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000305,"Borra, Kurian and Roy Legal Service",LEGAL_SERVICE,REG-000305,chanchalmand@dewan-mitter.biz,chanchalmand@dewan-mitter.biz,7513579287,7513579287,"183, Sami, Mumbai, Maharashtra, India",183 sami mumbai maharashtra india,Mumbai,Maharashtra,2024-01-24,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000306,"Bhat, Sant and Halder Garage",GARAGE,REG-000306,chaayaloyal@doshi-jani.info,chaayaloyal@doshi-jani.info,8612109497,8612109497,"73/45, Narayan Path, Pune, Maharashtra, India",73 45 narayan path pune maharashtra india,Pune,Maharashtra,2024-09-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000307,Oak LLC Garage,GARAGE,REG-000307,zchandran@gara-wadhwa.com,zchandran@gara-wadhwa.com,7697658290,7697658290,"03/025, Gaba Chowk, Jaipur, Rajasthan, India",03 025 gaba chowk jaipur rajasthan india,Jaipur,Rajasthan,2018-04-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000308,"Biswas, Dutt and Nagi Construction",CONSTRUCTION,REG-000308,bsidhu@rama-sankar.com,bsidhu@rama-sankar.com,7872475104,7872475104,"H.No. 167
+Ratta Street, Mumbai, Maharashtra, India",h no 167 ratta street mumbai maharashtra india,Mumbai,Maharashtra,2025-08-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000309,Sengupta-Choudhary Hospital,HOSPITAL,REG-000309,vivaanpurohit@gokhale.com,vivaanpurohit@gokhale.com,9208060617,9208060617,"36/943, Jhaveri Zila, Mysuru, Karnataka, India",36 943 jhaveri zila mysuru karnataka india,Mysuru,Karnataka,2026-07-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000310,"Vasa, Saraf and Palla Diagnostic Center",DIAGNOSTIC_CENTER,REG-000310,aseshadri@bahri.org,aseshadri@bahri.org,8192561474,8192561474,"18/57
+Doctor Nagar, Hyderabad, Telangana, India",18 57 doctor nagar hyderabad telangana india,Hyderabad,Telangana,2014-10-16,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000311,Batta-Dass Garage,GARAGE,REG-000311,tanvi53@tara.com,tanvi53@tara.com,9293605448,9293605448,"92/60, Venkataraman Marg, Mysuru, Karnataka, India",92 60 venkataraman marg mysuru karnataka india,Mysuru,Karnataka,2016-03-20,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000312,Acharya LLC Construction,CONSTRUCTION,REG-000312,ggera@bhardwaj.com,ggera@bhardwaj.com,7751606157,7751606157,"47/99
+Date, Aligarh, Uttar Pradesh, India",47 99 date aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2022-06-15,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000313,"Roy, Kata and Dhillon Pharmacy",PHARMACY,REG-000313,girik64@muni.com,girik64@muni.com,7969096901,7969096901,"89
+Pall Chowk, Mysuru, Karnataka, India",89 pall chowk mysuru karnataka india,Mysuru,Karnataka,2020-07-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000314,Dhingra Ltd Hospital,HOSPITAL,REG-000314,lucky99@narayan.info,lucky99@narayan.info,7956493215,7956493215,"29/058, Sem Circle, Visakhapatnam, Andhra Pradesh, India",29 058 sem circle visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2022-06-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000315,Vasa and Sons Garage,GARAGE,REG-000315,gdevan@thaker.com,gdevan@thaker.com,9971863951,9971863951,"118, Atwal Road, Ahmedabad, Gujarat, India",118 atwal road ahmedabad gujarat india,Ahmedabad,Gujarat,2026-09-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000316,Yohannan-Nori Diagnostic Center,DIAGNOSTIC_CENTER,REG-000316,amol03@sandhu.com,amol03@sandhu.com,6109307110,6109307110,"H.No. 44
+Naik Nagar, Proddatur, Andhra Pradesh, India",h no 44 naik nagar proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2021-09-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000317,"Konda, Morar and Narasimhan Clinic",CLINIC,REG-000317,ymanne@rana.com,ymanne@rana.com,6145603615,6145603615,"95, Mohan Nagar, Visakhapatnam, Andhra Pradesh, India",95 mohan nagar visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2021-07-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000318,"Chhabra, Behl and Nigam Garage",GARAGE,REG-000318,panchalayushman@babu-joshi.org,panchalayushman@babu-joshi.org,9363242982,9363242982,"00, Khosla Circle, Warangal, Telangana, India",00 khosla circle warangal telangana india,Warangal,Telangana,2018-02-25,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000319,Saxena Ltd Diagnostic Center,DIAGNOSTIC_CENTER,REG-000319,boballeela@bir.com,boballeela@bir.com,7725904188,7725904188,"263, Malhotra Circle, Delhi, Delhi, India",263 malhotra circle delhi delhi india,Delhi,Delhi,2024-03-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000320,Sankaran-Bir Legal Service,LEGAL_SERVICE,REG-000320,ridhimannan@trivedi.com,ridhimannan@trivedi.com,8353714373,8353714373,"56/142
+Jain Road, Bhubaneswar, Odisha, India",56 142 jain road bhubaneswar odisha india,Bhubaneswar,Odisha,2016-08-10,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000321,"Shenoy, Guha and Kala Construction",CONSTRUCTION,REG-000321,bhavyaram@dalal.com,bhavyaram@dalal.com,7363367296,7363367296,"708
+Chawla Ganj, Bengaluru, Karnataka, India",708 chawla ganj bengaluru karnataka india,Bengaluru,Karnataka,2014-03-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000322,"Reddy, Johal and Bath Pharmacy",PHARMACY,REG-000322,bhargavachameli@trivedi.com,bhargavachameli@trivedi.com,8403501124,8403501124,"67/551
+Bhatnagar Street, Coimbatore, Tamil Nadu, India",67 551 bhatnagar street coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2026-03-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000323,Kurian LLC Auto Repair,AUTO_REPAIR,REG-000323,oommenikbal@mukhopadhyay-shankar.net,oommenikbal@mukhopadhyay-shankar.net,6587430594,6587430594,"47/12, Joshi Path, Lucknow, Uttar Pradesh, India",47 12 joshi path lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2021-06-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000324,Cheema PLC Auto Repair,AUTO_REPAIR,REG-000324,uarya@borde.com,uarya@borde.com,7684663103,7684663103,"H.No. 79
+Garg Zila, Nagpur, Maharashtra, India",h no 79 garg zila nagpur maharashtra india,Nagpur,Maharashtra,2026-06-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000325,Doctor LLC Pharmacy,PHARMACY,REG-000325,msarma@yohannan.com,msarma@yohannan.com,6414703131,6414703131,"586
+Kakar Chowk, Bengaluru, Karnataka, India",586 kakar chowk bengaluru karnataka india,Bengaluru,Karnataka,2022-02-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000326,"Anand, Dar and Bhatt Auto Repair",AUTO_REPAIR,REG-000326,dnaik@bawa-ratti.org,dnaik@bawa-ratti.org,9209451673,9209451673,"89, Wable Path, Bengaluru, Karnataka, India",89 wable path bengaluru karnataka india,Bengaluru,Karnataka,2014-10-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000327,"Sankar, Padmanabhan and Talwar Garage",GARAGE,REG-000327,xbhalla@johal.com,xbhalla@johal.com,9400894441,9400894441,"27/776, Apte Street, Mysuru, Karnataka, India",27 776 apte street mysuru karnataka india,Mysuru,Karnataka,2013-08-31,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000328,Bawa Inc Diagnostic Center,DIAGNOSTIC_CENTER,REG-000328,bailzehaan@rana.biz,bailzehaan@rana.biz,7572913164,7572913164,"450
+Gade Street, Delhi, Delhi, India",450 gade street delhi delhi india,Delhi,Delhi,2025-08-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000329,Tandon-Gala Diagnostic Center,DIAGNOSTIC_CENTER,REG-000329,vraval@chakraborty.com,vraval@chakraborty.com,9224316083,9224316083,"H.No. 313
+Batra Ganj, Kolkata, West Bengal, India",h no 313 batra ganj kolkata west bengal india,Kolkata,West Bengal,2016-10-16,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000330,"Chand, Palan and Yogi Clinic",CLINIC,REG-000330,samesh05@iyer.com,samesh05@iyer.com,8147298170,8147298170,"45/651
+Sandhu Path, Delhi, Delhi, India",45 651 sandhu path delhi delhi india,Delhi,Delhi,2026-03-23,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000331,"Bhatt, Mittal and Dugal Clinic",CLINIC,REG-000331,parsajanaki@agarwal.info,parsajanaki@agarwal.info,8278677082,8278677082,"H.No. 76
+Jain Road, Bengaluru, Karnataka, India",h no 76 jain road bengaluru karnataka india,Bengaluru,Karnataka,2013-10-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000332,Sridhar-Mangat Garage,GARAGE,REG-000332,agaba@deol.com,agaba@deol.com,7809255310,7809255310,"H.No. 55
+Kapadia Path, Kolkata, West Bengal, India",h no 55 kapadia path kolkata west bengal india,Kolkata,West Bengal,2015-06-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000333,Palan-Soman Auto Repair,AUTO_REPAIR,REG-000333,vrindabobal@gour-shroff.biz,vrindabobal@gour-shroff.biz,9757192567,9757192567,"H.No. 644
+Om Marg, Nagpur, Maharashtra, India",h no 644 om marg nagpur maharashtra india,Nagpur,Maharashtra,2022-12-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000334,Thaker-Choudhury Construction,CONSTRUCTION,REG-000334,naikojas@dasgupta-manne.com,naikojas@dasgupta-manne.com,8176865379,8176865379,"06/004
+Issac Ganj, Hyderabad, Telangana, India",06 004 issac ganj hyderabad telangana india,Hyderabad,Telangana,2021-05-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000335,Kale PLC Auto Repair,AUTO_REPAIR,REG-000335,suhanidube@nagy.com,suhanidube@nagy.com,9062713540,9062713540,"90/583, Konda Road, Mumbai, Maharashtra, India",90 583 konda road mumbai maharashtra india,Mumbai,Maharashtra,2019-02-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000336,Gala LLC Diagnostic Center,DIAGNOSTIC_CENTER,REG-000336,dgoel@chad-prakash.com,dgoel@chad-prakash.com,6942922713,6942922713,"96/761
+Master Ganj, Bengaluru, Karnataka, India",96 761 master ganj bengaluru karnataka india,Bengaluru,Karnataka,2014-08-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000337,Wagle-Kala Hospital,HOSPITAL,REG-000337,gulatimugdha@modi.info,gulatimugdha@modi.info,8292540194,8292540194,"H.No. 11, Prakash Ganj, Ahmedabad, Gujarat, India",h no 11 prakash ganj ahmedabad gujarat india,Ahmedabad,Gujarat,2026-04-18,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000338,Bains PLC Diagnostic Center,DIAGNOSTIC_CENTER,REG-000338,esama@jha-arya.com,esama@jha-arya.com,8777694551,8777694551,"15/52, Oommen Ganj, Mysuru, Karnataka, India",15 52 oommen ganj mysuru karnataka india,Mysuru,Karnataka,2021-07-24,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000339,"Bhavsar, Chopra and Keer Auto Repair",AUTO_REPAIR,REG-000339,tatayatin@dhar.com,tatayatin@dhar.com,6040121401,6040121401,"15, Aurora Chowk, Chennai, Tamil Nadu, India",15 aurora chowk chennai tamil nadu india,Chennai,Tamil Nadu,2018-05-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000340,Morar PLC Pharmacy,PHARMACY,REG-000340,brijesh30@choudhry.com,brijesh30@choudhry.com,8566295053,8566295053,"H.No. 89
+Pingle Ganj, Bhubaneswar, Odisha, India",h no 89 pingle ganj bhubaneswar odisha india,Bhubaneswar,Odisha,2015-12-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000341,Shere-Prashad Diagnostic Center,DIAGNOSTIC_CENTER,REG-000341,ladviraj@hari.com,ladviraj@hari.com,7254670259,7254670259,"699, Madan Circle, Bengaluru, Karnataka, India",699 madan circle bengaluru karnataka india,Bengaluru,Karnataka,2019-04-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000342,Karpe Group Pharmacy,PHARMACY,REG-000342,urmisahota@karnik.com,urmisahota@karnik.com,8379600072,8379600072,"H.No. 42, Kamdar Zila, Hyderabad, Telangana, India",h no 42 kamdar zila hyderabad telangana india,Hyderabad,Telangana,2023-10-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000343,"Gokhale, Gala and Sandal Legal Service",LEGAL_SERVICE,REG-000343,buchsarthak@chopra.net,buchsarthak@chopra.net,8940442742,8940442742,"42/645, Dyal, Proddatur, Andhra Pradesh, India",42 645 dyal proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2017-05-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000344,Bobal Group Pharmacy,PHARMACY,REG-000344,anamikapandey@borra.biz,anamikapandey@borra.biz,8447817968,8447817968,"784, Hegde Ganj, Aligarh, Uttar Pradesh, India",784 hegde ganj aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2016-06-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000345,Gandhi-Mallick Construction,CONSTRUCTION,REG-000345,parth98@dewan-mitra.biz,parth98@dewan-mitra.biz,7878873956,7878873956,"07/185, Chaudhuri Street, Coimbatore, Tamil Nadu, India",07 185 chaudhuri street coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2022-02-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000346,"Oza, Biswas and Dave Diagnostic Center",DIAGNOSTIC_CENTER,REG-000346,qchopra@tripathi.com,qchopra@tripathi.com,7486327912,7486327912,"65/11
+Kar Nagar, Bhubaneswar, Odisha, India",65 11 kar nagar bhubaneswar odisha india,Bhubaneswar,Odisha,2013-07-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000347,Wali-Dave Garage,GARAGE,REG-000347,jyoti80@venkataraman.info,jyoti80@venkataraman.info,8042357208,8042357208,"H.No. 69
+Goel Zila, Visakhapatnam, Andhra Pradesh, India",h no 69 goel zila visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2019-09-28,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000348,Ray Inc Auto Repair,AUTO_REPAIR,REG-000348,peter73@bir.biz,peter73@bir.biz,7317807373,7317807373,"94/000
+Bumb Circle, Visakhapatnam, Andhra Pradesh, India",94 000 bumb circle visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2016-06-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000349,Kumer PLC Legal Service,LEGAL_SERVICE,REG-000349,xmani@magar-kaur.net,xmani@magar-kaur.net,6444541844,6444541844,"95/82
+Agrawal Marg, Jaipur, Rajasthan, India",95 82 agrawal marg jaipur rajasthan india,Jaipur,Rajasthan,2024-03-20,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000350,Kumer-Bumb Diagnostic Center,DIAGNOSTIC_CENTER,REG-000350,zehaan36@parsa.org,zehaan36@parsa.org,7522975789,7522975789,"H.No. 83, Vala Path, Mumbai, Maharashtra, India",h no 83 vala path mumbai maharashtra india,Mumbai,Maharashtra,2017-11-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000351,Venkatesh PLC Hospital,HOSPITAL,REG-000351,anika99@kurian.net,anika99@kurian.net,6931433142,6931433142,"91/818, Dutta Ganj, Hyderabad, Telangana, India",91 818 dutta ganj hyderabad telangana india,Hyderabad,Telangana,2012-01-13,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000352,Yogi-Chanda Clinic,CLINIC,REG-000352,lmangat@panchal.com,lmangat@panchal.com,9116824668,9116824668,"46/96
+Gulati Road, Coimbatore, Tamil Nadu, India",46 96 gulati road coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2026-04-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000353,"Prabhakar, Krishnan and Kar Clinic",CLINIC,REG-000353,ozayash@shetty.net,ozayash@shetty.net,6808981040,6808981040,"04
+Warrior Path, Ahmedabad, Gujarat, India",04 warrior path ahmedabad gujarat india,Ahmedabad,Gujarat,2013-01-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000354,Babu-Ravi Garage,GARAGE,REG-000354,samakshom@bansal-shankar.net,samakshom@bansal-shankar.net,7855157277,7855157277,"H.No. 023
+Bhat Nagar, Coimbatore, Tamil Nadu, India",h no 023 bhat nagar coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2015-11-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000355,Uppal-Dhillon Construction,CONSTRUCTION,REG-000355,noahbalan@sachdeva.org,noahbalan@sachdeva.org,7795412368,7795412368,"452
+Savant Street, Jaipur, Rajasthan, India",452 savant street jaipur rajasthan india,Jaipur,Rajasthan,2022-07-11,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000356,Bains-Mittal Legal Service,LEGAL_SERVICE,REG-000356,goyalcharita@kunda.com,goyalcharita@kunda.com,7367234965,7367234965,"H.No. 231
+Chander Path, Coimbatore, Tamil Nadu, India",h no 231 chander path coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2014-02-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000357,Master-Sarma Construction,CONSTRUCTION,REG-000357,iahuja@manne.com,iahuja@manne.com,6997906235,6997906235,"69
+Setty Street, Nagpur, Maharashtra, India",69 setty street nagpur maharashtra india,Nagpur,Maharashtra,2020-11-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000358,Sane LLC Pharmacy,PHARMACY,REG-000358,zsoman@bhat-joshi.com,zsoman@bhat-joshi.com,9062467727,9062467727,"91
+Shenoy Street, Bhubaneswar, Odisha, India",91 shenoy street bhubaneswar odisha india,Bhubaneswar,Odisha,2012-05-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000359,Shroff Group Legal Service,LEGAL_SERVICE,REG-000359,venkateshkiaan@soman-patil.com,venkateshkiaan@soman-patil.com,9257520723,9257520723,"50/512
+Khalsa Chowk, Proddatur, Andhra Pradesh, India",50 512 khalsa chowk proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2022-01-31,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000360,Deshmukh Inc Garage,GARAGE,REG-000360,edhithabalay@kothari.com,edhithabalay@kothari.com,7951332378,7951332378,"059
+Randhawa Marg, Jaipur, Rajasthan, India",059 randhawa marg jaipur rajasthan india,Jaipur,Rajasthan,2024-01-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000361,"Basu, Raja and Nayar Hospital",HOSPITAL,REG-000361,advikjani@suri-om.info,advikjani@suri-om.info,6956914712,6956914712,"H.No. 779
+Soni Chowk, Pune, Maharashtra, India",h no 779 soni chowk pune maharashtra india,Pune,Maharashtra,2014-08-29,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000362,Garg Ltd Construction,CONSTRUCTION,REG-000362,tmital@shroff.com,tmital@shroff.com,6635107911,6635107911,"47/420
+Chopra Nagar, Kolkata, West Bengal, India",47 420 chopra nagar kolkata west bengal india,Kolkata,West Bengal,2012-02-16,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000363,Sachdev PLC Auto Repair,AUTO_REPAIR,REG-000363,forum98@sachar-dani.com,forum98@sachar-dani.com,7755381863,7755381863,"H.No. 137, Sandal Street, Bengaluru, Karnataka, India",h no 137 sandal street bengaluru karnataka india,Bengaluru,Karnataka,2023-04-04,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000364,Gara PLC Clinic,CLINIC,REG-000364,handashivansh@rastogi.com,handashivansh@rastogi.com,6891205948,6891205948,"H.No. 63
+Gill Street, Mysuru, Karnataka, India",h no 63 gill street mysuru karnataka india,Mysuru,Karnataka,2014-08-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000365,Reddy-Kala Construction,CONSTRUCTION,REG-000365,ighose@prashad.com,ighose@prashad.com,7350179699,7350179699,"51/373
+Gokhale Marg, Aligarh, Uttar Pradesh, India",51 373 gokhale marg aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2017-06-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000366,Varma Ltd Construction,CONSTRUCTION,REG-000366,chandani20@shanker.com,chandani20@shanker.com,7612981508,7612981508,"H.No. 62, Sankaran Nagar, Visakhapatnam, Andhra Pradesh, India",h no 62 sankaran nagar visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2012-11-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000367,"Dey, Menon and Tiwari Construction",CONSTRUCTION,REG-000367,bosebrijesh@jhaveri-krish.net,bosebrijesh@jhaveri-krish.net,6584616881,6584616881,"971, Kant Circle, Mumbai, Maharashtra, India",971 kant circle mumbai maharashtra india,Mumbai,Maharashtra,2021-12-18,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000368,"Singh, Sarma and Vyas Clinic",CLINIC,REG-000368,gom@dhaliwal-loyal.org,gom@dhaliwal-loyal.org,6766121346,6766121346,"79
+Vyas Road, Pune, Maharashtra, India",79 vyas road pune maharashtra india,Pune,Maharashtra,2024-05-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000369,Hora Ltd Hospital,HOSPITAL,REG-000369,vasatika92@choudhary.net,vasatika92@choudhary.net,8154771458,8154771458,"H.No. 03
+Lanka Path, Ahmedabad, Gujarat, India",h no 03 lanka path ahmedabad gujarat india,Ahmedabad,Gujarat,2021-10-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000370,Hari-Trivedi Clinic,CLINIC,REG-000370,ppradhan@soni.com,ppradhan@soni.com,7469605283,7469605283,"H.No. 64, Dass Marg, Visakhapatnam, Andhra Pradesh, India",h no 64 dass marg visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2017-05-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000371,Mohan Group Clinic,CLINIC,REG-000371,yuvrajvarghese@bedi.net,yuvrajvarghese@bedi.net,8649848952,8649848952,"64/67, Gera Street, Ahmedabad, Gujarat, India",64 67 gera street ahmedabad gujarat india,Ahmedabad,Gujarat,2019-06-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000372,"Krishnan, Khalsa and Pai Construction",CONSTRUCTION,REG-000372,nakul02@soni.com,nakul02@soni.com,6845349045,6845349045,"17/45
+Sathe Chowk, Lucknow, Uttar Pradesh, India",17 45 sathe chowk lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2026-03-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000373,"Narayan, Ravel and Suresh Clinic",CLINIC,REG-000373,damyantimadan@oza.com,damyantimadan@oza.com,7838499812,7838499812,"01/60
+Dubey Road, Ahmedabad, Gujarat, India",01 60 dubey road ahmedabad gujarat india,Ahmedabad,Gujarat,2015-08-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000374,"Konda, Kara and Parekh Diagnostic Center",DIAGNOSTIC_CENTER,REG-000374,rajacaleb@batta-soman.com,rajacaleb@batta-soman.com,6825730593,6825730593,"27/61, Bahri Street, Kochi, Kerala, India",27 61 bahri street kochi kerala india,Kochi,Kerala,2022-02-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000375,"Murty, Agate and Sankar Hospital",HOSPITAL,REG-000375,ibalasubramanian@madan-chana.com,ibalasubramanian@madan-chana.com,9822870642,9822870642,"H.No. 44
+More Zila, Kochi, Kerala, India",h no 44 more zila kochi kerala india,Kochi,Kerala,2026-04-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000376,"Srinivasan, Magar and Bassi Garage",GARAGE,REG-000376,lohit09@bawa-chauhan.info,lohit09@bawa-chauhan.info,6164984783,6164984783,"84/29
+Nagarajan Road, Warangal, Telangana, India",84 29 nagarajan road warangal telangana india,Warangal,Telangana,2018-09-16,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000377,Barad Inc Diagnostic Center,DIAGNOSTIC_CENTER,REG-000377,champaksubramanian@barad-joshi.com,champaksubramanian@barad-joshi.com,7090263996,7090263996,"16/37
+Sagar Road, Aligarh, Uttar Pradesh, India",16 37 sagar road aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2025-04-04,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000378,Tandon Inc Pharmacy,PHARMACY,REG-000378,bedivarenya@tank-thakkar.com,bedivarenya@tank-thakkar.com,8047757131,8047757131,"314, Gulati Zila, Proddatur, Andhra Pradesh, India",314 gulati zila proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2013-08-31,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000379,Rout-Ahuja Auto Repair,AUTO_REPAIR,REG-000379,anirudhnadkarni@dubey.com,anirudhnadkarni@dubey.com,6086396023,6086396023,"61/63
+Kota Nagar, Coimbatore, Tamil Nadu, India",61 63 kota nagar coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2019-03-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000380,Bhavsar-Mohanty Auto Repair,AUTO_REPAIR,REG-000380,ucchal13@khare.com,ucchal13@khare.com,8885942044,8885942044,"76/515
+Malhotra Street, Kochi, Kerala, India",76 515 malhotra street kochi kerala india,Kochi,Kerala,2013-01-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000381,"Rattan, Ray and Gupta Hospital",HOSPITAL,REG-000381,bhavika68@parekh.com,bhavika68@parekh.com,9717896791,9717896791,"H.No. 12, Morar, Kochi, Kerala, India",h no 12 morar kochi kerala india,Kochi,Kerala,2015-07-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000382,Biswas-Deep Hospital,HOSPITAL,REG-000382,vtak@chowdhury-padmanabhan.com,vtak@chowdhury-padmanabhan.com,6915711412,6915711412,"H.No. 96, Sampath Circle, Kolkata, West Bengal, India",h no 96 sampath circle kolkata west bengal india,Kolkata,West Bengal,2012-08-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000383,"Upadhyay, Badal and Vig Legal Service",LEGAL_SERVICE,REG-000383,nkrishnamurthy@murty.info,nkrishnamurthy@murty.info,6145507986,6145507986,"991
+Krish Ganj, Mysuru, Karnataka, India",991 krish ganj mysuru karnataka india,Mysuru,Karnataka,2015-06-20,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000384,"Palla, Sarkar and Ray Legal Service",LEGAL_SERVICE,REG-000384,gunbir96@chand-munshi.net,gunbir96@chand-munshi.net,6044130230,6044130230,"H.No. 57
+Randhawa Marg, Delhi, Delhi, India",h no 57 randhawa marg delhi delhi india,Delhi,Delhi,2025-12-25,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000385,Kaur-Anand Pharmacy,PHARMACY,REG-000385,farhansahota@amble.com,farhansahota@amble.com,6736546944,6736546944,"H.No. 05, Devi Circle, Mysuru, Karnataka, India",h no 05 devi circle mysuru karnataka india,Mysuru,Karnataka,2018-01-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000386,Sangha LLC Pharmacy,PHARMACY,REG-000386,rajagopalanansh@ratti-bhatt.com,rajagopalanansh@ratti-bhatt.com,7295086673,7295086673,"77/94, Mittal Marg, Kolkata, West Bengal, India",77 94 mittal marg kolkata west bengal india,Kolkata,West Bengal,2018-04-25,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000387,"Gulati, Konda and Seshadri Construction",CONSTRUCTION,REG-000387,davebahadurjit@kaur-virk.com,davebahadurjit@kaur-virk.com,8164348203,8164348203,"H.No. 331
+Dua Zila, Mumbai, Maharashtra, India",h no 331 dua zila mumbai maharashtra india,Mumbai,Maharashtra,2016-01-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000388,Mutti and Sons Auto Repair,AUTO_REPAIR,REG-000388,veer91@pant.net,veer91@pant.net,8379226822,8379226822,"H.No. 302
+Rama Nagar, Aligarh, Uttar Pradesh, India",h no 302 rama nagar aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2019-10-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000389,Chadha-Sane Diagnostic Center,DIAGNOSTIC_CENTER,REG-000389,ishwar76@tak-bath.org,ishwar76@tak-bath.org,7766302951,7766302951,"372, Sengupta Ganj, Nagpur, Maharashtra, India",372 sengupta ganj nagpur maharashtra india,Nagpur,Maharashtra,2023-11-16,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000390,"Khurana, Oak and Khosla Hospital",HOSPITAL,REG-000390,vermahemani@lad.com,vermahemani@lad.com,9069194407,9069194407,"23, Om Road, Lucknow, Uttar Pradesh, India",23 om road lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2012-01-04,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000391,Dash Group Garage,GARAGE,REG-000391,sarthak50@gupta.com,sarthak50@gupta.com,8923238634,8923238634,"H.No. 821
+Murty Marg, Visakhapatnam, Andhra Pradesh, India",h no 821 murty marg visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2021-05-07,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000392,Nath-Chatterjee Construction,CONSTRUCTION,REG-000392,yamini37@bumb-singhal.com,yamini37@bumb-singhal.com,9759466514,9759466514,"H.No. 87
+Walia Marg, Hyderabad, Telangana, India",h no 87 walia marg hyderabad telangana india,Hyderabad,Telangana,2023-08-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000393,Mall-Dhingra Hospital,HOSPITAL,REG-000393,wablepooja@uppal-chopra.com,wablepooja@uppal-chopra.com,8208557638,8208557638,"39/84, Venkatesh Nagar, Chennai, Tamil Nadu, India",39 84 venkatesh nagar chennai tamil nadu india,Chennai,Tamil Nadu,2018-03-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000394,Sarma-Bandi Clinic,CLINIC,REG-000394,nihalpalan@garg.com,nihalpalan@garg.com,6775725564,6775725564,"H.No. 319
+Palan Circle, Kolkata, West Bengal, India",h no 319 palan circle kolkata west bengal india,Kolkata,West Bengal,2018-08-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000395,Banik-Peri Legal Service,LEGAL_SERVICE,REG-000395,shauryakurian@anne-balakrishnan.biz,shauryakurian@anne-balakrishnan.biz,9970340881,9970340881,"H.No. 284
+Sangha Path, Pune, Maharashtra, India",h no 284 sangha path pune maharashtra india,Pune,Maharashtra,2019-07-14,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000396,Gara-Chaudhari Auto Repair,AUTO_REPAIR,REG-000396,amaira64@dua-vyas.com,amaira64@dua-vyas.com,9029660231,9029660231,"66/740
+Manda Road, Vijayawada, Andhra Pradesh, India",66 740 manda road vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2013-08-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000397,"Doshi, Bawa and Parmer Auto Repair",AUTO_REPAIR,REG-000397,neelimareddy@kumer-bhalla.net,neelimareddy@kumer-bhalla.net,8619464539,8619464539,"73/009, Ganesan, Ahmedabad, Gujarat, India",73 009 ganesan ahmedabad gujarat india,Ahmedabad,Gujarat,2015-06-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000398,Dhingra-Mani Auto Repair,AUTO_REPAIR,REG-000398,aarnav97@krishnamurthy-trivedi.com,aarnav97@krishnamurthy-trivedi.com,7371402354,7371402354,"H.No. 687
+Nath Chowk, Warangal, Telangana, India",h no 687 nath chowk warangal telangana india,Warangal,Telangana,2022-10-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000399,Virk PLC Legal Service,LEGAL_SERVICE,REG-000399,vamakshidugar@bedi.org,vamakshidugar@bedi.org,8126765805,8126765805,"01
+Ramakrishnan Ganj, Bengaluru, Karnataka, India",01 ramakrishnan ganj bengaluru karnataka india,Bengaluru,Karnataka,2020-03-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000400,Rao-Arora Hospital,HOSPITAL,REG-000400,ishanigour@bajwa.com,ishanigour@bajwa.com,6161003285,6161003285,"35/35, Biswas, Chennai, Tamil Nadu, India",35 35 biswas chennai tamil nadu india,Chennai,Tamil Nadu,2012-03-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000401,Ray and Sons Auto Repair,AUTO_REPAIR,REG-000401,choudhrydarpan@ratti.net,choudhrydarpan@ratti.net,7176017022,7176017022,"H.No. 39
+Sethi Road, Warangal, Telangana, India",h no 39 sethi road warangal telangana india,Warangal,Telangana,2021-02-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000402,"Suresh, Raju and Mall Garage",GARAGE,REG-000402,akaur@seth.info,akaur@seth.info,6353137187,6353137187,"74/244
+Saxena Marg, Ahmedabad, Gujarat, India",74 244 saxena marg ahmedabad gujarat india,Ahmedabad,Gujarat,2025-03-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000403,"Chaudhuri, Char and Varty Hospital",HOSPITAL,REG-000403,aadipau@varghese-tara.com,aadipau@varghese-tara.com,6035208814,6035208814,"31
+Sarin Street, Proddatur, Andhra Pradesh, India",31 sarin street proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2025-12-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000404,Dayal LLC Construction,CONSTRUCTION,REG-000404,badamilaban@vig.biz,badamilaban@vig.biz,9872562295,9872562295,"H.No. 82
+Barad Street, Chennai, Tamil Nadu, India",h no 82 barad street chennai tamil nadu india,Chennai,Tamil Nadu,2019-06-24,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000405,Kala-Muni Garage,GARAGE,REG-000405,vidhibakshi@devan-konda.com,vidhibakshi@devan-konda.com,7358490732,7358490732,"086, Rajagopal, Warangal, Telangana, India",086 rajagopal warangal telangana india,Warangal,Telangana,2018-04-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000406,"Bajwa, Nair and Bahri Diagnostic Center",DIAGNOSTIC_CENTER,REG-000406,mdhawan@srinivas-krishnan.org,mdhawan@srinivas-krishnan.org,6500069274,6500069274,"85
+Chaudry, Chennai, Tamil Nadu, India",85 chaudry chennai tamil nadu india,Chennai,Tamil Nadu,2025-12-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000407,Murthy PLC Construction,CONSTRUCTION,REG-000407,aayushnarain@rau.com,aayushnarain@rau.com,9176358910,9176358910,"19/05, Gala Marg, Kolkata, West Bengal, India",19 05 gala marg kolkata west bengal india,Kolkata,West Bengal,2015-11-07,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000408,Tak-Kuruvilla Clinic,CLINIC,REG-000408,ryan76@edwin-chauhan.com,ryan76@edwin-chauhan.com,6327444877,6327444877,"440, Kannan Chowk, Aligarh, Uttar Pradesh, India",440 kannan chowk aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2012-03-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000409,Luthra Ltd Hospital,HOSPITAL,REG-000409,bhalladamini@mistry.com,bhalladamini@mistry.com,8327335805,8327335805,"H.No. 23, Gokhale Chowk, Nagpur, Maharashtra, India",h no 23 gokhale chowk nagpur maharashtra india,Nagpur,Maharashtra,2013-04-07,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000410,Tara-Kamdar Clinic,CLINIC,REG-000410,balendrabal@sastry.biz,balendrabal@sastry.biz,7893885190,7893885190,"389
+Srinivas Circle, Delhi, Delhi, India",389 srinivas circle delhi delhi india,Delhi,Delhi,2013-11-26,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000411,Dhingra Group Auto Repair,AUTO_REPAIR,REG-000411,omisha43@madan-loyal.biz,omisha43@madan-loyal.biz,7477403573,7477403573,"H.No. 401, Pau Ganj, Aligarh, Uttar Pradesh, India",h no 401 pau ganj aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2017-02-15,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000412,Naik-Jha Clinic,CLINIC,REG-000412,paninichoudhary@gupta.biz,paninichoudhary@gupta.biz,7387164843,7387164843,"H.No. 931
+Khare Circle, Ahmedabad, Gujarat, India",h no 931 khare circle ahmedabad gujarat india,Ahmedabad,Gujarat,2021-12-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000413,"Verma, Khanna and Mukherjee Diagnostic Center",DIAGNOSTIC_CENTER,REG-000413,oganesan@naidu.biz,oganesan@naidu.biz,9931043755,9931043755,"395, Mody Road, Mysuru, Karnataka, India",395 mody road mysuru karnataka india,Mysuru,Karnataka,2013-10-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000414,Rajagopal and Sons Construction,CONSTRUCTION,REG-000414,fganguly@sibal.com,fganguly@sibal.com,7794331926,7794331926,"125, Das Circle, Bengaluru, Karnataka, India",125 das circle bengaluru karnataka india,Bengaluru,Karnataka,2025-08-08,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000415,"Lata, Lala and Rastogi Hospital",HOSPITAL,REG-000415,sai19@bhatia.net,sai19@bhatia.net,6331730535,6331730535,"84, Jain Nagar, Hyderabad, Telangana, India",84 jain nagar hyderabad telangana india,Hyderabad,Telangana,2022-02-07,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000416,"Bhavsar, Doshi and Dhillon Clinic",CLINIC,REG-000416,sharafrajeshri@mital.biz,sharafrajeshri@mital.biz,8202937218,8202937218,"125
+Loke Zila, Bhubaneswar, Odisha, India",125 loke zila bhubaneswar odisha india,Bhubaneswar,Odisha,2019-10-04,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000417,Bedi-Rout Garage,GARAGE,REG-000417,dominic62@padmanabhan.net,dominic62@padmanabhan.net,9155462176,9155462176,"H.No. 164, Bhardwaj Zila, Pune, Maharashtra, India",h no 164 bhardwaj zila pune maharashtra india,Pune,Maharashtra,2025-05-27,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000418,Dar-Singh Legal Service,LEGAL_SERVICE,REG-000418,edhithasheth@narayan.com,edhithasheth@narayan.com,7563149739,7563149739,"63
+Grewal Circle, Jaipur, Rajasthan, India",63 grewal circle jaipur rajasthan india,Jaipur,Rajasthan,2013-04-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000419,Kumar-Chokshi Garage,GARAGE,REG-000419,mmuni@dash-om.com,mmuni@dash-om.com,7787983019,7787983019,"H.No. 42
+Kuruvilla Marg, Lucknow, Uttar Pradesh, India",h no 42 kuruvilla marg lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2013-04-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000420,Ganesan Ltd Pharmacy,PHARMACY,REG-000420,ghoseoliver@sandhu.info,ghoseoliver@sandhu.info,7653274634,7653274634,"74/169, Chacko Path, Delhi, Delhi, India",74 169 chacko path delhi delhi india,Delhi,Delhi,2012-04-11,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000421,Ravi PLC Clinic,CLINIC,REG-000421,gabrielseshadri@bhalla.com,gabrielseshadri@bhalla.com,8817190759,8817190759,"65/05, Ramaswamy Street, Delhi, Delhi, India",65 05 ramaswamy street delhi delhi india,Delhi,Delhi,2021-03-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000422,"Sen, Menon and Chaudhari Hospital",HOSPITAL,REG-000422,poojabassi@banerjee.com,poojabassi@banerjee.com,7284344175,7284344175,"40/84
+Menon Nagar, Aligarh, Uttar Pradesh, India",40 84 menon nagar aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2025-08-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000423,"Murty, Maharaj and Mahal Construction",CONSTRUCTION,REG-000423,anitabahl@malhotra.biz,anitabahl@malhotra.biz,9300644010,9300644010,"362, Sami Road, Aligarh, Uttar Pradesh, India",362 sami road aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2023-12-10,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000424,Setty and Sons Auto Repair,AUTO_REPAIR,REG-000424,amanne@borah.biz,amanne@borah.biz,8066398126,8066398126,"27/76
+Madan Street, Proddatur, Andhra Pradesh, India",27 76 madan street proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2019-02-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000425,"Hayre, Setty and Gulati Hospital",HOSPITAL,REG-000425,rachanakapur@nagi-walla.info,rachanakapur@nagi-walla.info,8616372830,8616372830,"H.No. 50, Ravi Circle, Coimbatore, Tamil Nadu, India",h no 50 ravi circle coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2024-10-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000426,"Dara, Bajwa and Sur Legal Service",LEGAL_SERVICE,REG-000426,lsamra@vora.biz,lsamra@vora.biz,6417898653,6417898653,"66/296, Luthra Nagar, Delhi, Delhi, India",66 296 luthra nagar delhi delhi india,Delhi,Delhi,2024-02-04,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000427,Shan Inc Construction,CONSTRUCTION,REG-000427,ucchal95@muni.org,ucchal95@muni.org,8037748969,8037748969,"275, Bath Chowk, Chennai, Tamil Nadu, India",275 bath chowk chennai tamil nadu india,Chennai,Tamil Nadu,2015-08-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000428,"Kunda, Divan and Sami Auto Repair",AUTO_REPAIR,REG-000428,wbail@magar.com,wbail@magar.com,6538175758,6538175758,"40/29, Deol Circle, Vijayawada, Andhra Pradesh, India",40 29 deol circle vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2023-12-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000429,"Rao, Hora and Mane Auto Repair",AUTO_REPAIR,REG-000429,omajaissac@devi.net,omajaissac@devi.net,6202640491,6202640491,"H.No. 168
+Loke, Aligarh, Uttar Pradesh, India",h no 168 loke aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2016-05-23,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000430,"Varma, Walla and Kamdar Clinic",CLINIC,REG-000430,benjamin53@bera.org,benjamin53@bera.org,8462974520,8462974520,"35/983, Vasa Circle, Visakhapatnam, Andhra Pradesh, India",35 983 vasa circle visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2014-06-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000431,"Babu, Bora and Cheema Pharmacy",PHARMACY,REG-000431,rdalia@tata-narain.net,rdalia@tata-narain.net,6444158775,6444158775,"H.No. 30, Mannan Chowk, Delhi, Delhi, India",h no 30 mannan chowk delhi delhi india,Delhi,Delhi,2023-12-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000432,"Mukherjee, Bala and Parmar Hospital",HOSPITAL,REG-000432,azadbarad@sur.com,azadbarad@sur.com,9803273795,9803273795,"72/51
+Walia Path, Proddatur, Andhra Pradesh, India",72 51 walia path proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2018-09-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000433,"Prashad, Sane and Narasimhan Pharmacy",PHARMACY,REG-000433,pranav67@reddy-prashad.biz,pranav67@reddy-prashad.biz,6012768755,6012768755,"94/971, Chowdhury Zila, Visakhapatnam, Andhra Pradesh, India",94 971 chowdhury zila visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2023-08-05,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000434,"Trivedi, Sarna and Bajaj Legal Service",LEGAL_SERVICE,REG-000434,narasimhanayush@ganguly-lad.com,narasimhanayush@ganguly-lad.com,9214989975,9214989975,"032, Choudhary Path, Mumbai, Maharashtra, India",032 choudhary path mumbai maharashtra india,Mumbai,Maharashtra,2013-01-05,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000435,Radhakrishnan-Prakash Diagnostic Center,DIAGNOSTIC_CENTER,REG-000435,shauryavarty@ramanathan.net,shauryavarty@ramanathan.net,8570390774,8570390774,"97/391
+Muni Circle, Visakhapatnam, Andhra Pradesh, India",97 391 muni circle visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2023-02-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000436,Lad-Doctor Auto Repair,AUTO_REPAIR,REG-000436,rkanda@lalla.info,rkanda@lalla.info,6721753553,6721753553,"16, Patel Circle, Bhubaneswar, Odisha, India",16 patel circle bhubaneswar odisha india,Bhubaneswar,Odisha,2025-03-06,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000437,"Varughese, Parekh and Wali Pharmacy",PHARMACY,REG-000437,chakrabortyedhitha@bhattacharyya.com,chakrabortyedhitha@bhattacharyya.com,7673084808,7673084808,"H.No. 70
+Madan Path, Bengaluru, Karnataka, India",h no 70 madan path bengaluru karnataka india,Bengaluru,Karnataka,2024-12-18,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000438,Chaudhary-Sharma Pharmacy,PHARMACY,REG-000438,kevinupadhyay@sridhar-kohli.com,kevinupadhyay@sridhar-kohli.com,9488627338,9488627338,"H.No. 13
+Parekh Circle, Delhi, Delhi, India",h no 13 parekh circle delhi delhi india,Delhi,Delhi,2022-02-24,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000439,Shankar-Randhawa Clinic,CLINIC,REG-000439,charansule@jaggi.com,charansule@jaggi.com,6496115274,6496115274,"H.No. 279, Radhakrishnan Street, Aligarh, Uttar Pradesh, India",h no 279 radhakrishnan street aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2023-03-09,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000440,Deo-Om Legal Service,LEGAL_SERVICE,REG-000440,saibarad@dar.biz,saibarad@dar.biz,9968029101,9968029101,"H.No. 952, Bandi Chowk, Mumbai, Maharashtra, India",h no 952 bandi chowk mumbai maharashtra india,Mumbai,Maharashtra,2013-09-26,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000441,"Dasgupta, Kuruvilla and Char Auto Repair",AUTO_REPAIR,REG-000441,hanand@virk.org,hanand@virk.org,6162789805,6162789805,"28/91
+Mannan Road, Pune, Maharashtra, India",28 91 mannan road pune maharashtra india,Pune,Maharashtra,2022-11-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000442,"Bala, Sodhi and Patil Diagnostic Center",DIAGNOSTIC_CENTER,REG-000442,upradhan@mammen-barman.com,upradhan@mammen-barman.com,9662530049,9662530049,"748, Subramanian Street, Mysuru, Karnataka, India",748 subramanian street mysuru karnataka india,Mysuru,Karnataka,2026-08-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000443,Gole and Sons Pharmacy,PHARMACY,REG-000443,chaman66@pandey.net,chaman66@pandey.net,7370338772,7370338772,"H.No. 991
+Ganesan, Kochi, Kerala, India",h no 991 ganesan kochi kerala india,Kochi,Kerala,2024-03-07,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000444,Soni-Mistry Construction,CONSTRUCTION,REG-000444,mparikh@thakur-chowdhury.com,mparikh@thakur-chowdhury.com,7961103455,7961103455,"H.No. 821, Krishnamurthy Road, Pune, Maharashtra, India",h no 821 krishnamurthy road pune maharashtra india,Pune,Maharashtra,2019-12-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000445,Rout LLC Auto Repair,AUTO_REPAIR,REG-000445,om90@prabhu-kalita.net,om90@prabhu-kalita.net,6652207897,6652207897,"72/648
+Choudhry Street, Jaipur, Rajasthan, India",72 648 choudhry street jaipur rajasthan india,Jaipur,Rajasthan,2024-03-22,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000446,Sanghvi Group Hospital,HOSPITAL,REG-000446,mitesh25@tella.com,mitesh25@tella.com,7347459241,7347459241,"H.No. 151, Sridhar Marg, Mysuru, Karnataka, India",h no 151 sridhar marg mysuru karnataka india,Mysuru,Karnataka,2026-08-21,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000447,Tara-Bhasin Clinic,CLINIC,REG-000447,baghyawati77@chowdhury.com,baghyawati77@chowdhury.com,8359151050,8359151050,"H.No. 96, Vala, Bhubaneswar, Odisha, India",h no 96 vala bhubaneswar odisha india,Bhubaneswar,Odisha,2018-07-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000448,"Pau, Vaidya and Nadkarni Hospital",HOSPITAL,REG-000448,sachdevbimala@iyengar-kaur.net,sachdevbimala@iyengar-kaur.net,6064102027,6064102027,"H.No. 42, Patel Nagar, Delhi, Delhi, India",h no 42 patel nagar delhi delhi india,Delhi,Delhi,2018-10-29,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000449,Ravel and Sons Garage,GARAGE,REG-000449,lallanvi@karpe-savant.com,lallanvi@karpe-savant.com,7944107923,7944107923,"37/147, Saini, Hyderabad, Telangana, India",37 147 saini hyderabad telangana india,Hyderabad,Telangana,2015-02-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000450,"Muni, Raghavan and Srinivas Diagnostic Center",DIAGNOSTIC_CENTER,REG-000450,vansha57@bhargava.net,vansha57@bhargava.net,8699343720,8699343720,"H.No. 252
+Chopra Path, Jaipur, Rajasthan, India",h no 252 chopra path jaipur rajasthan india,Jaipur,Rajasthan,2014-08-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000451,Malhotra-Palla Construction,CONSTRUCTION,REG-000451,doshikevin@anne.com,doshikevin@anne.com,7800326461,7800326461,"67/965
+Kaul Marg, Kolkata, West Bengal, India",67 965 kaul marg kolkata west bengal india,Kolkata,West Bengal,2022-05-09,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000452,Varughese-Wagle Diagnostic Center,DIAGNOSTIC_CENTER,REG-000452,sahuja@mohanty-khatri.info,sahuja@mohanty-khatri.info,7750321289,7750321289,"H.No. 09
+Ranganathan Path, Mysuru, Karnataka, India",h no 09 ranganathan path mysuru karnataka india,Mysuru,Karnataka,2024-04-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000453,Ganesh-Sama Clinic,CLINIC,REG-000453,wallafalak@vala.com,wallafalak@vala.com,9537876137,9537876137,"H.No. 98, Hayre Nagar, Lucknow, Uttar Pradesh, India",h no 98 hayre nagar lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2013-11-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000454,Dass and Sons Construction,CONSTRUCTION,REG-000454,jalsa04@raj.net,jalsa04@raj.net,6272573405,6272573405,"13/69, Bir, Jaipur, Rajasthan, India",13 69 bir jaipur rajasthan india,Jaipur,Rajasthan,2019-08-01,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000455,Kurian LLC Pharmacy,PHARMACY,REG-000455,michaelmody@walia.com,michaelmody@walia.com,7648285433,7648285433,"09, Bal Nagar, Bhubaneswar, Odisha, India",09 bal nagar bhubaneswar odisha india,Bhubaneswar,Odisha,2013-01-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000456,Balay PLC Construction,CONSTRUCTION,REG-000456,yboase@naidu-murthy.com,yboase@naidu-murthy.com,6225528743,6225528743,"H.No. 08
+Dhillon Path, Bhubaneswar, Odisha, India",h no 08 dhillon path bhubaneswar odisha india,Bhubaneswar,Odisha,2018-07-05,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000457,Madan-Wable Auto Repair,AUTO_REPAIR,REG-000457,zayyanpillai@ben.biz,zayyanpillai@ben.biz,6799904401,6799904401,"H.No. 021, Om Marg, Bengaluru, Karnataka, India",h no 021 om marg bengaluru karnataka india,Bengaluru,Karnataka,2014-11-12,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000458,"Bal, Oza and Chahal Garage",GARAGE,REG-000458,brajagopalan@sridhar-bhalla.com,brajagopalan@sridhar-bhalla.com,9351102528,9351102528,"14
+Natt Ganj, Kolkata, West Bengal, India",14 natt ganj kolkata west bengal india,Kolkata,West Bengal,2014-05-07,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000459,Chowdhury-Hayre Hospital,HOSPITAL,REG-000459,dkapadia@vohra.org,dkapadia@vohra.org,6082996052,6082996052,"089
+Kant Chowk, Aligarh, Uttar Pradesh, India",089 kant chowk aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2015-01-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000460,"Mishra, Deshmukh and Krishnamurthy Pharmacy",PHARMACY,REG-000460,irabehl@vala-toor.com,irabehl@vala-toor.com,6406916892,6406916892,"25/774
+Ravi Marg, Pune, Maharashtra, India",25 774 ravi marg pune maharashtra india,Pune,Maharashtra,2020-05-31,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000461,"Dubey, Barad and Kunda Clinic",CLINIC,REG-000461,kashyapbalveer@rao.com,kashyapbalveer@rao.com,7262852989,7262852989,"H.No. 62
+Rajagopalan Street, Bhubaneswar, Odisha, India",h no 62 rajagopalan street bhubaneswar odisha india,Bhubaneswar,Odisha,2021-04-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000462,"Sama, Bala and Babu Construction",CONSTRUCTION,REG-000462,dugalirya@dutta.com,dugalirya@dutta.com,8460202283,8460202283,"14/72, Nanda Path, Mumbai, Maharashtra, India",14 72 nanda path mumbai maharashtra india,Mumbai,Maharashtra,2014-07-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000463,Dube Group Hospital,HOSPITAL,REG-000463,naraindakshesh@choudhury.com,naraindakshesh@choudhury.com,6839630355,6839630355,"H.No. 84
+Doctor Marg, Bhubaneswar, Odisha, India",h no 84 doctor marg bhubaneswar odisha india,Bhubaneswar,Odisha,2019-01-19,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000464,Gara-Baria Legal Service,LEGAL_SERVICE,REG-000464,wahab16@bhalla.com,wahab16@bhalla.com,7812776526,7812776526,"87/05, Samra, Visakhapatnam, Andhra Pradesh, India",87 05 samra visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2020-04-02,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000465,"Gara, Basak and Buch Pharmacy",PHARMACY,REG-000465,daksheshviswanathan@baria.biz,daksheshviswanathan@baria.biz,6963440443,6963440443,"H.No. 00
+Gala Street, Aligarh, Uttar Pradesh, India",h no 00 gala street aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2023-01-17,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000466,"Kannan, Pai and Kumer Clinic",CLINIC,REG-000466,janaki87@bath.info,janaki87@bath.info,7081972528,7081972528,"H.No. 22
+Nagi Zila, Aligarh, Uttar Pradesh, India",h no 22 nagi zila aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2022-08-29,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000467,Subramaniam-Rai Hospital,HOSPITAL,REG-000467,wahabkalita@pillay.com,wahabkalita@pillay.com,6850433640,6850433640,"H.No. 92
+Gupta Chowk, Hyderabad, Telangana, India",h no 92 gupta chowk hyderabad telangana india,Hyderabad,Telangana,2018-04-28,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000468,"Bandi, Dasgupta and Bajwa Hospital",HOSPITAL,REG-000468,khegde@chana-sabharwal.com,khegde@chana-sabharwal.com,7855474241,7855474241,"H.No. 871, Banik Zila, Delhi, Delhi, India",h no 871 banik zila delhi delhi india,Delhi,Delhi,2019-12-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000469,"Chandra, Kala and Jha Pharmacy",PHARMACY,REG-000469,benjaminjayaraman@radhakrishnan.net,benjaminjayaraman@radhakrishnan.net,6363692289,6363692289,"05/005, Din Marg, Hyderabad, Telangana, India",05 005 din marg hyderabad telangana india,Hyderabad,Telangana,2024-10-19,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000470,Bhat-Mann Legal Service,LEGAL_SERVICE,REG-000470,mannharrison@rana.info,mannharrison@rana.info,9873269079,9873269079,"H.No. 58, Mody Marg, Vijayawada, Andhra Pradesh, India",h no 58 mody marg vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2016-08-31,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000471,Mannan Ltd Construction,CONSTRUCTION,REG-000471,edhitha24@chhabra.com,edhitha24@chhabra.com,9365627931,9365627931,"386
+Deol Ganj, Ahmedabad, Gujarat, India",386 deol ganj ahmedabad gujarat india,Ahmedabad,Gujarat,2016-06-20,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000472,"Batra, Balan and Natt Clinic",CLINIC,REG-000472,mannryan@nagi.net,mannryan@nagi.net,7080351190,7080351190,"75
+Bassi Chowk, Hyderabad, Telangana, India",75 bassi chowk hyderabad telangana india,Hyderabad,Telangana,2021-02-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000473,Nath-Aggarwal Clinic,CLINIC,REG-000473,azad62@zachariah-parekh.org,azad62@zachariah-parekh.org,7524780392,7524780392,"H.No. 70, Sankaran Marg, Hyderabad, Telangana, India",h no 70 sankaran marg hyderabad telangana india,Hyderabad,Telangana,2016-05-11,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000474,"Sur, Bir and Hora Construction",CONSTRUCTION,REG-000474,thomas32@nagar-goda.biz,thomas32@nagar-goda.biz,8957807779,8957807779,"70/00
+Palan Path, Visakhapatnam, Andhra Pradesh, India",70 00 palan path visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2020-03-30,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000475,"Narasimhan, Cheema and Dalal Garage",GARAGE,REG-000475,sainimitali@badami.com,sainimitali@badami.com,9513615269,9513615269,"02/956
+Prabhu, Nagpur, Maharashtra, India",02 956 prabhu nagpur maharashtra india,Nagpur,Maharashtra,2015-01-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000476,Bava-Grover Clinic,CLINIC,REG-000476,upadhriti88@trivedi.org,upadhriti88@trivedi.org,9021174802,9021174802,"86/48
+Aggarwal Road, Delhi, Delhi, India",86 48 aggarwal road delhi delhi india,Delhi,Delhi,2016-08-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000477,Dayal and Sons Diagnostic Center,DIAGNOSTIC_CENTER,REG-000477,aradhana57@vora.net,aradhana57@vora.net,7797859260,7797859260,"91
+Dash Street, Pune, Maharashtra, India",91 dash street pune maharashtra india,Pune,Maharashtra,2016-12-22,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000478,Kurian-Baral Auto Repair,AUTO_REPAIR,REG-000478,wadhwanakul@ben-amble.com,wadhwanakul@ben-amble.com,7907119881,7907119881,"38/17
+Sengupta Ganj, Vijayawada, Andhra Pradesh, India",38 17 sengupta ganj vijayawada andhra pradesh india,Vijayawada,Andhra Pradesh,2017-06-28,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000479,"Bassi, Seth and Zachariah Auto Repair",AUTO_REPAIR,REG-000479,brijeshtalwar@saini.com,brijeshtalwar@saini.com,7216819302,7216819302,"232
+Munshi Street, Kochi, Kerala, India",232 munshi street kochi kerala india,Kochi,Kerala,2026-07-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000480,Chaudhari-Borra Garage,GARAGE,REG-000480,csom@mody.com,csom@mody.com,6521940916,6521940916,"H.No. 841
+Mallick Circle, Mumbai, Maharashtra, India",h no 841 mallick circle mumbai maharashtra india,Mumbai,Maharashtra,2015-02-28,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000481,"Baral, Sarin and Kale Auto Repair",AUTO_REPAIR,REG-000481,leena60@sura.net,leena60@sura.net,9048139649,9048139649,"41, Shere Ganj, Ahmedabad, Gujarat, India",41 shere ganj ahmedabad gujarat india,Ahmedabad,Gujarat,2018-09-15,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000482,Gara-Soni Diagnostic Center,DIAGNOSTIC_CENTER,REG-000482,isoman@mann.com,isoman@mann.com,9373640280,9373640280,"65/433
+Bumb Nagar, Delhi, Delhi, India",65 433 bumb nagar delhi delhi india,Delhi,Delhi,2020-04-12,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000483,Sankar LLC Pharmacy,PHARMACY,REG-000483,kabir09@sastry-basak.info,kabir09@sastry-basak.info,8734678929,8734678929,"81/897, Merchant Road, Jaipur, Rajasthan, India",81 897 merchant road jaipur rajasthan india,Jaipur,Rajasthan,2016-08-24,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000484,"Prashad, Pillay and Parsa Auto Repair",AUTO_REPAIR,REG-000484,arin26@dhillon.org,arin26@dhillon.org,9994269458,9994269458,"H.No. 27
+Nagy Chowk, Bengaluru, Karnataka, India",h no 27 nagy chowk bengaluru karnataka india,Bengaluru,Karnataka,2012-08-08,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000485,Gala Group Auto Repair,AUTO_REPAIR,REG-000485,aradhanaramachandran@solanki.net,aradhanaramachandran@solanki.net,7805663631,7805663631,"76/12, Narain Ganj, Nagpur, Maharashtra, India",76 12 narain ganj nagpur maharashtra india,Nagpur,Maharashtra,2025-08-23,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000486,Sant and Sons Legal Service,LEGAL_SERVICE,REG-000486,akarnik@mody.com,akarnik@mody.com,7156672033,7156672033,"H.No. 85
+Lalla Chowk, Visakhapatnam, Andhra Pradesh, India",h no 85 lalla chowk visakhapatnam andhra pradesh india,Visakhapatnam,Andhra Pradesh,2023-06-10,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000487,"Radhakrishnan, Gera and Ahluwalia Diagnostic Center",DIAGNOSTIC_CENTER,REG-000487,osethi@om-sarkar.org,osethi@om-sarkar.org,6887456049,6887456049,"H.No. 245, Wadhwa Ganj, Warangal, Telangana, India",h no 245 wadhwa ganj warangal telangana india,Warangal,Telangana,2013-11-22,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000488,"Saini, Prasad and Basu Hospital",HOSPITAL,REG-000488,dyalkai@ramaswamy-mand.com,dyalkai@ramaswamy-mand.com,6729413336,6729413336,"H.No. 199
+Palla Zila, Jaipur, Rajasthan, India",h no 199 palla zila jaipur rajasthan india,Jaipur,Rajasthan,2011-11-05,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000489,Ramaswamy-Borde Auto Repair,AUTO_REPAIR,REG-000489,jmistry@prabhu.biz,jmistry@prabhu.biz,9525387802,9525387802,"559, Pillay Road, Bengaluru, Karnataka, India",559 pillay road bengaluru karnataka india,Bengaluru,Karnataka,2019-09-11,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000490,Narayanan-Subramanian Construction,CONSTRUCTION,REG-000490,zarnamodi@mane.org,zarnamodi@mane.org,9890442738,9890442738,"H.No. 63
+Shenoy Nagar, Coimbatore, Tamil Nadu, India",h no 63 shenoy nagar coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2022-11-18,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000491,"Balasubramanian, Korpal and Murthy Clinic",CLINIC,REG-000491,wadhwakrishna@goda-dalia.com,wadhwakrishna@goda-dalia.com,6462126377,6462126377,"45
+Khanna Ganj, Hyderabad, Telangana, India",45 khanna ganj hyderabad telangana india,Hyderabad,Telangana,2024-12-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000492,"Bora, Kapadia and Mital Construction",CONSTRUCTION,REG-000492,kalevedant@tiwari.org,kalevedant@tiwari.org,8433600273,8433600273,"985
+Rattan Street, Aligarh, Uttar Pradesh, India",985 rattan street aligarh uttar pradesh india,Aligarh,Uttar Pradesh,2015-12-01,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000493,Kunda Inc Hospital,HOSPITAL,REG-000493,gokhaleishani@dada.info,gokhaleishani@dada.info,6269316703,6269316703,"H.No. 354
+Nath Road, Coimbatore, Tamil Nadu, India",h no 354 nath road coimbatore tamil nadu india,Coimbatore,Tamil Nadu,2016-05-13,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000494,Ganesh-Chhabra Diagnostic Center,DIAGNOSTIC_CENTER,REG-000494,wsastry@pant-chandran.com,wsastry@pant-chandran.com,6642464244,6642464244,"811, Shan, Lucknow, Uttar Pradesh, India",811 shan lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2020-08-14,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000495,"Bala, Nori and Dixit Diagnostic Center",DIAGNOSTIC_CENTER,REG-000495,reyanshbasu@sahni-panchal.net,reyanshbasu@sahni-panchal.net,6292150586,6292150586,"H.No. 40, Nair, Chennai, Tamil Nadu, India",h no 40 nair chennai tamil nadu india,Chennai,Tamil Nadu,2014-07-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000496,Kala Inc Pharmacy,PHARMACY,REG-000496,udyatipatil@basak.biz,udyatipatil@basak.biz,9078860012,9078860012,"19/339, Dube Street, Lucknow, Uttar Pradesh, India",19 339 dube street lucknow uttar pradesh india,Lucknow,Uttar Pradesh,2017-12-27,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000497,"Manda, Shankar and Kuruvilla Auto Repair",AUTO_REPAIR,REG-000497,pbhandari@singh-tella.com,pbhandari@singh-tella.com,6851543609,6851543609,"32
+Narang Road, Kolkata, West Bengal, India",32 narang road kolkata west bengal india,Kolkata,West Bengal,2018-11-25,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000498,Kaur Inc Pharmacy,PHARMACY,REG-000498,gautam27@andra.biz,gautam27@andra.biz,7314528284,7314528284,"81/136, Kota Road, Hyderabad, Telangana, India",81 136 kota road hyderabad telangana india,Hyderabad,Telangana,2017-10-04,INACTIVE,2026-10-31 00:00:00+00:00
+PRV-000499,Nair Inc Diagnostic Center,DIAGNOSTIC_CENTER,REG-000499,ydalal@khanna.com,ydalal@khanna.com,9641706860,9641706860,"H.No. 988
+Patla Road, Proddatur, Andhra Pradesh, India",h no 988 patla road proddatur andhra pradesh india,Proddatur,Andhra Pradesh,2020-08-03,ACTIVE,2026-10-31 00:00:00+00:00
+PRV-000500,Lalla-Trivedi Legal Service,LEGAL_SERVICE,REG-000500,upathak@mall-bal.info,upathak@mall-bal.info,8541046113,8541046113,"12/39, Wagle Zila, Ahmedabad, Gujarat, India",12 39 wagle zila ahmedabad gujarat india,Ahmedabad,Gujarat,2025-09-20,ACTIVE,2026-10-31 00:00:00+00:00

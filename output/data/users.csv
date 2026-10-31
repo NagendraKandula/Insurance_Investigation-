@@ -1,0 +1,21 @@
+user_id,full_name,email,role,status,created_at
+USR-000001,Zayan Sampath,zayan.sampath1@insurer.example,ADMIN,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000002,Rajeshri Kulkarni,rajeshri.kulkarni2@insurer.example,ADMIN,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000003,Aahana Bhardwaj,aahana.bhardwaj3@insurer.example,REVIEWER,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000004,Daksh Amble,daksh.amble4@insurer.example,REVIEWER,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000005,Sanaya Grover,sanaya.grover5@insurer.example,REVIEWER,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000006,Warda Prabhu,warda.prabhu6@insurer.example,REVIEWER,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000007,Raksha Dutta,raksha.dutta7@insurer.example,REVIEWER,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000008,Jason Toor,jason.toor8@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000009,Henry Prabhakar,henry.prabhakar9@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000010,Kashvi Chakraborty,kashvi.chakraborty10@insurer.example,ANALYST,INACTIVE,2026-10-31 00:00:00+00:00
+USR-000011,Wriddhish Koshy,wriddhish.koshy11@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000012,Panini Bandi,panini.bandi12@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000013,Oliver Sridhar,oliver.sridhar13@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000014,Anmol Jain,anmol.jain14@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000015,Ishanvi Virk,ishanvi.virk15@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000016,Guneet Seth,guneet.seth16@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000017,Umang Baral,umang.baral17@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000018,Theodore Raju,theodore.raju18@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000019,Sai Sama,sai.sama19@insurer.example,ANALYST,ACTIVE,2026-10-31 00:00:00+00:00
+USR-000020,Naksh Mannan,naksh.mannan20@insurer.example,ANALYST,INACTIVE,2026-10-31 00:00:00+00:00
