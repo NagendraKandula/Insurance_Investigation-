@@ -1,0 +1,799 @@
+{
+  "validated_at": "2026-10-31T08:34:24.840875+00:00",
+  "as_of": "2026-10-31",
+  "row_counts": {
+    "users": 20,
+    "claimants": 2000,
+    "providers": 500,
+    "policies": 3000,
+    "incidents": 4000,
+    "claims": 5000,
+    "invoices": 6000,
+    "payments": 8000,
+    "relationship_edges": 38000,
+    "claim_status_events": 10861,
+    "payment_status_events": 8000
+  },
+  "totals": {
+    "integrity_checks": 69,
+    "integrity_failures": 0,
+    "findings": 7,
+    "info_signals": 6
+  },
+  "edge_case_coverage": {
+    "Claim links to a nonexistent policy": 0,
+    "Payment exceeds approved amount": 2733,
+    "Duplicate invoice across claimants": 4,
+    "Real relationship missing from edges": 72,
+    "Benign shared address (must not be proof)": 11
+  },
+  "checks": [
+    {
+      "id": "KEY-users-user_id",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "users.user_id is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-users-email",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "users.email is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-claimants-claimant_id",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "claimants.claimant_id is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-providers-provider_id",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "providers.provider_id is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-providers-registration_number",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "providers.registration_number is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-policies-policy_id",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "policies.policy_id is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-policies-policy_number",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "policies.policy_number is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-incidents-incident_id",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "incidents.incident_id is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-claims-claim_id",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "claims.claim_id is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-claims-claim_number",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "claims.claim_number is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-invoices-invoice_id",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "invoices.invoice_id is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-payments-payment_id",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "payments.payment_id is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "KEY-payments-transaction_reference",
+      "section": "Keys",
+      "kind": "integrity",
+      "description": "payments.transaction_reference is unique",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-policies-claimant_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "policies.claimant_id points to an existing claimants",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-claims-claimant_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "claims.claimant_id points to an existing claimants",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-claims-policy_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "claims.policy_id points to an existing policies",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-claims-incident_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "claims.incident_id points to an existing incidents",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-invoices-provider_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "invoices.provider_id points to an existing providers",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-invoices-claim_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "invoices.claim_id points to an existing claims",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-payments-invoice_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "payments.invoice_id points to an existing invoices",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-claim_status_events-claim_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "claim_status_events.claim_id points to an existing claims",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-payment_status_events-payment_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "payment_status_events.payment_id points to an existing payments",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-claim_status_events-actor_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "claim_status_events.actor_id points to an existing users",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-payment_status_events-actor_id",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "payment_status_events.actor_id points to an existing users",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "FK-claims-owner",
+      "section": "Foreign keys",
+      "kind": "integrity",
+      "description": "Claim's claimant is the owner of the claim's policy",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "GRAPH-source-exists",
+      "section": "Graph edges",
+      "kind": "integrity",
+      "description": "Every edge source exists in its own entity table",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "GRAPH-target-exists",
+      "section": "Graph edges",
+      "kind": "integrity",
+      "description": "Every edge target exists in its own entity table",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "GRAPH-duplicates",
+      "section": "Graph edges",
+      "kind": "integrity",
+      "description": "No duplicate edges (same source, target and relationship type)",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "GRAPH-self-loops",
+      "section": "Graph edges",
+      "kind": "integrity",
+      "description": "No edge points from an entity to itself",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "GRAPH-claim-edge",
+      "section": "Graph edges",
+      "kind": "finding",
+      "description": "Every claim has a FILED_CLAIM edge from its claimant",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "GRAPH-invoice-edge",
+      "section": "Graph edges",
+      "kind": "finding",
+      "description": "Every invoice has an ISSUED_INVOICE edge from its provider",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-users-role",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "users.role is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-users-status",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "users.status is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-claimants-gender",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "claimants.gender is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-policies-policy_type",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "policies.policy_type is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-policies-status",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "policies.status is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-incidents-incident_type",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "incidents.incident_type is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-providers-provider_type",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "providers.provider_type is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-providers-status",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "providers.status is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-claims-status",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "claims.status is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-invoices-status",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "invoices.status is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-payments-payment_method",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "payments.payment_method is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-payments-transaction_type",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "payments.transaction_type is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-payments-status",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "payments.status is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-relationship_edges-relationship_type",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "relationship_edges.relationship_type is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-relationship_edges-source_type",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "relationship_edges.source_type is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "ENUM-relationship_edges-target_type",
+      "section": "Allowed values",
+      "kind": "integrity",
+      "description": "relationship_edges.target_type is one of the allowed values",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-incident-reported",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Incident is reported on or after the day it happened",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-claim-after-report",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Claim is filed on or after the incident was reported",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-claim-in-policy",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Incident falls within the policy's coverage period",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-policy-range",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Policy ends on or after it starts",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-invoice-after-claim",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Invoice is dated on or after its claim",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-invoice-due",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Invoice due date is on or after the invoice date",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-payment-after-invoice",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Payment is dated on or after its invoice",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-refund-after-payment",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Refund or reversal comes after a payment on the same invoice",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-not-future",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "No business date is after the as-of date",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "DATE-adult",
+      "section": "Dates",
+      "kind": "integrity",
+      "description": "Claimants are at least 18 at the as-of date",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "MATH-approved-le-claimed",
+      "section": "Arithmetic",
+      "kind": "integrity",
+      "description": "Approved amount never exceeds the claimed amount",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "MATH-claim-le-coverage",
+      "section": "Arithmetic",
+      "kind": "integrity",
+      "description": "Claimed amount never exceeds the policy coverage",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "MATH-approved-consistent",
+      "section": "Arithmetic",
+      "kind": "integrity",
+      "description": "Approved amount is positive exactly when the claim is APPROVED",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "MATH-premium",
+      "section": "Arithmetic",
+      "kind": "integrity",
+      "description": "Premium equals 2% of coverage (derived value)",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "MATH-payment-le-invoice",
+      "section": "Arithmetic",
+      "kind": "integrity",
+      "description": "No single transaction exceeds its invoice amount",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "MATH-net-paid-range",
+      "section": "Arithmetic",
+      "kind": "integrity",
+      "description": "Net paid per invoice (payments minus refunds and reversals) stays between 0 and the invoice amount",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "LIFE-claim_status_events-transition",
+      "section": "Lifecycle",
+      "kind": "integrity",
+      "description": "Claim events use only allowed transitions",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "LIFE-claim_status_events-chain",
+      "section": "Lifecycle",
+      "kind": "integrity",
+      "description": "Claim events form an unbroken chain (each from_status equals the previous to_status)",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "LIFE-claim_status_events-final",
+      "section": "Lifecycle",
+      "kind": "integrity",
+      "description": "Latest Claim event matches the current status (and every record has history)",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "LIFE-claim_status_events-time",
+      "section": "Lifecycle",
+      "kind": "integrity",
+      "description": "Claim event times never go backwards",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "LIFE-payment_status_events-transition",
+      "section": "Lifecycle",
+      "kind": "integrity",
+      "description": "Payment events use only allowed transitions",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "LIFE-payment_status_events-chain",
+      "section": "Lifecycle",
+      "kind": "integrity",
+      "description": "Payment events form an unbroken chain (each from_status equals the previous to_status)",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "LIFE-payment_status_events-final",
+      "section": "Lifecycle",
+      "kind": "integrity",
+      "description": "Latest Payment event matches the current status (and every record has history)",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "LIFE-payment_status_events-time",
+      "section": "Lifecycle",
+      "kind": "integrity",
+      "description": "Payment event times never go backwards",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "BIZ-payment-exceeds-approved",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Net payments on a claim exceed its approved amount",
+      "violations": 2733,
+      "samples": [
+        "CLM-000001",
+        "CLM-000005",
+        "CLM-000006",
+        "CLM-000007",
+        "CLM-000010"
+      ]
+    },
+    {
+      "id": "BIZ-invoices-exceed-claim",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Invoices on a claim add up to more than the claimed amount",
+      "violations": 1121,
+      "samples": [
+        "CLM-000006",
+        "CLM-000011",
+        "CLM-000022",
+        "CLM-000023",
+        "CLM-000024"
+      ]
+    },
+    {
+      "id": "BIZ-invoice-unapproved-claim",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Invoice raised against a claim that is not APPROVED",
+      "violations": 4024,
+      "samples": [
+        "INV-003153",
+        "INV-003043",
+        "INV-004690",
+        "INV-000690",
+        "INV-004550"
+      ]
+    },
+    {
+      "id": "BIZ-paid-not-settled",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Invoice marked PAID but net payments are below the invoice amount",
+      "violations": 1979,
+      "samples": [
+        "INV-000004",
+        "INV-000005",
+        "INV-000007",
+        "INV-000008",
+        "INV-000011"
+      ]
+    },
+    {
+      "id": "BIZ-rejected-but-paid",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Invoice marked REJECTED but money was paid out",
+      "violations": 1005,
+      "samples": [
+        "INV-000024",
+        "INV-000026",
+        "INV-000031",
+        "INV-000043",
+        "INV-000058"
+      ]
+    },
+    {
+      "id": "BIZ-invoice-number-repeats",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Same provider repeats an invoice number",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "BIZ-duplicate-invoice-cross-claimant",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Same invoice number appears on claims of different claimants",
+      "violations": 4,
+      "samples": [
+        "INV-REUSED-001",
+        "INV-REUSED-002",
+        "INV-REUSED-003",
+        "INV-REUSED-004"
+      ]
+    },
+    {
+      "id": "BIZ-duplicate-claimant",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Possible duplicate claimant (same name and date of birth)",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "BIZ-missing-contact-edge",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Claimants share a phone number but no SHARES_PHONE edge records it",
+      "violations": 72,
+      "samples": [
+        "CPT-000900~CPT-000946",
+        "CPT-000900~CPT-001292",
+        "CPT-000946~CPT-001292",
+        "CPT-000059~CPT-000543",
+        "CPT-000059~CPT-001615"
+      ]
+    },
+    {
+      "id": "BIZ-staged-missing-policy",
+      "section": "Business rules",
+      "kind": "finding",
+      "description": "Staged claim references a policy that does not exist",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "SIG-shared-phone",
+      "section": "Signals",
+      "kind": "info",
+      "description": "Phone numbers shared by 2 or more claimants",
+      "violations": 24,
+      "samples": [
+        "6035688315",
+        "6101435385",
+        "6337321990",
+        "6465356003",
+        "6548084591"
+      ]
+    },
+    {
+      "id": "SIG-shared-email",
+      "section": "Signals",
+      "kind": "info",
+      "description": "Emails shared by 2 or more claimants",
+      "violations": 0,
+      "samples": []
+    },
+    {
+      "id": "SIG-shared-address",
+      "section": "Signals",
+      "kind": "info",
+      "description": "Addresses shared by 2 or more claimants",
+      "violations": 11,
+      "samples": [
+        "flat 101 green residency mg road hyderabad india",
+        "flat 102 green residency mg road hyderabad india",
+        "flat 103 green residency mg road hyderabad india",
+        "flat 104 green residency mg road hyderabad india",
+        "flat 105 green residency mg road hyderabad india"
+      ]
+    },
+    {
+      "id": "SIG-address-only-share",
+      "section": "Signals",
+      "kind": "info",
+      "description": "Shared addresses where every claimant has a different phone (household-style, not proof of fraud)",
+      "violations": 11,
+      "samples": [
+        "flat 101 green residency mg road hyderabad india",
+        "flat 102 green residency mg road hyderabad india",
+        "flat 103 green residency mg road hyderabad india",
+        "flat 104 green residency mg road hyderabad india",
+        "flat 105 green residency mg road hyderabad india"
+      ]
+    },
+    {
+      "id": "SIG-provider-shared-claimants",
+      "section": "Signals",
+      "kind": "info",
+      "description": "Providers billing 3 or more claimants who share one phone number",
+      "violations": 24,
+      "samples": [
+        "PRV-000446",
+        "PRV-000018",
+        "PRV-000263",
+        "PRV-000140",
+        "PRV-000053"
+      ]
+    },
+    {
+      "id": "SIG-shared-incident",
+      "section": "Signals",
+      "kind": "info",
+      "description": "Incidents referenced by more than one claim",
+      "violations": 1373,
+      "samples": [
+        "INC-000003",
+        "INC-000005",
+        "INC-000007",
+        "INC-000013",
+        "INC-000014"
+      ]
+    }
+  ]
+}
