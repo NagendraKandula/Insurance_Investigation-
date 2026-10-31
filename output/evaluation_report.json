@@ -1,0 +1,3416 @@
+{
+  "threshold": 40,
+  "confusion_matrix": {
+    "TP": 104,
+    "FP": 0,
+    "TN": 44,
+    "FN": 172
+  },
+  "metrics": {
+    "precision": 1.0,
+    "recall": 0.37681159420289856,
+    "f1_score": 0.5473684210526316,
+    "accuracy": 0.4625
+  },
+  "pattern_metrics": {
+    "BENIGN_SHARED_ADDRESS": {
+      "TP": 0,
+      "FP": 0,
+      "TN": 44,
+      "FN": 0,
+      "precision": 0,
+      "recall": 0,
+      "f1_score": 0
+    },
+    "DUPLICATE_INVOICE_NUMBER": {
+      "TP": 36,
+      "FP": 0,
+      "TN": 0,
+      "FN": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    "SHARED_PROVIDER_CLUSTER": {
+      "TP": 68,
+      "FP": 0,
+      "TN": 0,
+      "FN": 172,
+      "precision": 1.0,
+      "recall": 0.2833333333333333,
+      "f1_score": 0.4415584415584416
+    }
+  },
+  "network_results": [
+    {
+      "network_id": "NET-000025",
+      "total_entities": 9,
+      "detected_entities": 9,
+      "detection_rate": 1.0
+    },
+    {
+      "network_id": "NET-000026",
+      "total_entities": 9,
+      "detected_entities": 9,
+      "detection_rate": 1.0
+    },
+    {
+      "network_id": "NET-000027",
+      "total_entities": 9,
+      "detected_entities": 9,
+      "detection_rate": 1.0
+    },
+    {
+      "network_id": "NET-000028",
+      "total_entities": 9,
+      "detected_entities": 9,
+      "detection_rate": 1.0
+    },
+    {
+      "network_id": "NET-000002",
+      "total_entities": 10,
+      "detected_entities": 4,
+      "detection_rate": 0.4
+    },
+    {
+      "network_id": "NET-000014",
+      "total_entities": 10,
+      "detected_entities": 4,
+      "detection_rate": 0.4
+    },
+    {
+      "network_id": "NET-000001",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000003",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000005",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000006",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000007",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000009",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000011",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000012",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000013",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000015",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000016",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000017",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000018",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000019",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000020",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000024",
+      "total_entities": 10,
+      "detected_entities": 3,
+      "detection_rate": 0.3
+    },
+    {
+      "network_id": "NET-000004",
+      "total_entities": 10,
+      "detected_entities": 2,
+      "detection_rate": 0.2
+    },
+    {
+      "network_id": "NET-000008",
+      "total_entities": 10,
+      "detected_entities": 2,
+      "detection_rate": 0.2
+    },
+    {
+      "network_id": "NET-000010",
+      "total_entities": 10,
+      "detected_entities": 2,
+      "detection_rate": 0.2
+    },
+    {
+      "network_id": "NET-000021",
+      "total_entities": 10,
+      "detected_entities": 2,
+      "detection_rate": 0.2
+    },
+    {
+      "network_id": "NET-000022",
+      "total_entities": 10,
+      "detected_entities": 2,
+      "detection_rate": 0.2
+    },
+    {
+      "network_id": "NET-000023",
+      "total_entities": 10,
+      "detected_entities": 2,
+      "detection_rate": 0.2
+    }
+  ],
+  "detailed_results": [
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000263",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001077",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001578",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000687",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000942",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001713",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001441",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001148",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004615",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000161",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000001",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000118",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000924",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000081",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000817",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000668",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001881",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000640",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001946",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001622",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000176",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000002",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000171",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001011",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003461",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001756",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001497",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004278",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-002698",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000625",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000978",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-003732",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000003",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000149",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001639",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003135",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000097",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001796",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003047",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001986",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001586",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000063",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000168",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000004",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000446",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001292",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001394",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000426",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000900",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004528",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-003171",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000946",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003843",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000705",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000005",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000499",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001945",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001907",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-005439",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001812",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004500",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-004016",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000183",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001999",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000493",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000006",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000018",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000543",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003273",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000373",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001615",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001960",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000136",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000059",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003706",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000732",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000007",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000121",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000520",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000410",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000935",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000601",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003740",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000540",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001268",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003806",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000979",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000008",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000399",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001016",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000863",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000936",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000772",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001587",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-004381",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001419",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003834",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-002835",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000009",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000240",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000566",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002757",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000805",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000116",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003596",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001727",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001533",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000199",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000893",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000010",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000140",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000972",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000454",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001129",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000288",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001991",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-002937",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000117",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001788",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-003129",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000011",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000176",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001622",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002234",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-004748",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000423",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000226",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000292",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001618",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001588",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000716",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000012",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000462",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001374",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004662",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000695",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000773",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002468",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001014",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001299",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001523",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000184",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000013",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000354",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000162",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000338",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000020",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000185",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003382",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000794",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001008",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003111",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000952",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000014",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000148",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000203",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001183",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001869",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001386",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001584",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-005105",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001326",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002107",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000682",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000015",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000183",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001971",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002275",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-002536",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000622",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000014",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000525",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000905",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002927",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000698",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000016",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000186",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000434",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004188",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000047",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001539",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002601",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000406",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000824",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004997",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000392",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000017",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000051",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000662",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002893",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001139",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000416",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004281",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001521",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000971",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001175",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001506",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000018",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000467",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000239",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000390",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000072",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000925",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002921",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000052",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001973",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004182",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000752",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000019",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000159",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000881",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001103",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001351",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000086",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003357",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000024",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000481",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002989",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000144",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000020",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000168",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001464",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001702",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-005374",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000492",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003653",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000270",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001415",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003315",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000381",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000021",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000322",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001450",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002686",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000220",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001390",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001818",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-003320",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000542",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000371",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000007",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000022",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000053",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001757",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002625",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001364",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000964",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004178",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000594",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000828",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002644",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000435",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000023",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000400",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000090",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-000011",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001917",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000611",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004879",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001826",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001125",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 35,
+      "correct": false
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004663",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 45,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000854",
+      "pattern_type": "SHARED_PROVIDER_CLUSTER",
+      "planted_network_id": "NET-000024",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "BENIGN",
+      "risk_score": 30,
+      "correct": false
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000432",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002092",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 85,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000060",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 85,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000264",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004979",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000286",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000360",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004560",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 85,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000860",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000025",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000458",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004846",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 85,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000807",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 85,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000397",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002753",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001307",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000443",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-001892",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 85,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000277",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000026",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000211",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003659",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 100,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000042",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000329",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-004656",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 100,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000841",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000218",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003997",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 85,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001160",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000027",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000114",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002988",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 100,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000194",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 70,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000327",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-003182",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-000014",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "provider",
+      "entity_id": "PRV-000447",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 50,
+      "correct": true
+    },
+    {
+      "entity_type": "claim",
+      "entity_id": "CLM-002342",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 100,
+      "correct": true
+    },
+    {
+      "entity_type": "invoice",
+      "entity_id": "INV-001511",
+      "pattern_type": "DUPLICATE_INVOICE_NUMBER",
+      "planted_network_id": "NET-000028",
+      "expected_label": "SUSPICIOUS",
+      "predicted_label": "SUSPICIOUS",
+      "risk_score": 85,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000014",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000029",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000047",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000029",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000411",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000029",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001233",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000029",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001418",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000030",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000381",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000030",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000320",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000030",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000282",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000030",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000923",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000031",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001628",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000031",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000214",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000031",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001574",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000031",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000316",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000032",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000949",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000032",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001731",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000032",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001862",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000032",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001039",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000033",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001880",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000033",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001782",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000033",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001809",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000033",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001253",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000034",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000561",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000034",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001836",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000034",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000105",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000034",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000221",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000035",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001262",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000035",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001250",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000035",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001820",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000035",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001465",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000036",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000127",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000036",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001150",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000036",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000370",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000036",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000126",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000037",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001660",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000037",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001137",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000037",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001288",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000037",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000041",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000038",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001544",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000038",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001720",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000038",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000615",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000038",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001968",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000039",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 10,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001585",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000039",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-000889",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000039",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    },
+    {
+      "entity_type": "claimant",
+      "entity_id": "CPT-001400",
+      "pattern_type": "BENIGN_SHARED_ADDRESS",
+      "planted_network_id": "NET-000039",
+      "expected_label": "BENIGN",
+      "predicted_label": "BENIGN",
+      "risk_score": 0,
+      "correct": true
+    }
+  ]
+}
